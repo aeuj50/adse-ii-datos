@@ -1,0 +1,1201 @@
+id_cliente,canton,tipo_negocio,antiguedad_meses,frecuencia_pedidos_mes,ticket_promedio,sku_distintos,distancia_bodega_km,descuento_promedio,ventas_trimestre,recompra_90d,segmento
+AND-0001,Catamayo,tienda de barrio,49,14,44.28,77,36.3,14.0,1525.28,1,minimarket
+AND-0002,Machala,tienda de barrio,13,8,14.89,42,24.2,8.6,283.47,0,barrio
+AND-0003,Saraguro,tienda de barrio,9,12,94.44,69,6.2,9.2,4315.63,0,minimarket
+AND-0004,Saraguro,tienda de barrio,29,9,81.75,46,23.6,12.8,2189.2,0,minimarket
+AND-0005,Machala,tienda de barrio,65,5,16.44,28,25.7,11.2,212.0,0,barrio
+AND-0006,Machala,tienda de barrio,37,17,193.86,150,34.5,6.6,10232.06,1,mayorista
+AND-0007,Cariamanga,tienda de barrio,38,8,42.71,69,22.7,14.5,1286.52,1,minimarket
+AND-0008,Zamora,minimarket,11,10,36.15,69,62.5,9.4,1133.1,0,minimarket
+AND-0009,Cariamanga,minimarket,26,6,17.54,26,18.8,9.0,212.15,0,barrio
+AND-0010,Catamayo,tienda de barrio,49,9,14.45,21,13.3,14.7,519.64,1,barrio
+AND-0011,Loja,minimarket,31,5,17.67,15,50.1,17.4,194.46,0,barrio
+AND-0012,Macara,tienda de barrio,9,12,147.68,117,18.4,8.6,5004.78,1,mayorista
+AND-0013,Macara,tienda de barrio,26,11,46.51,64,21.2,5.2,1298.06,0,minimarket
+AND-0014,Loja,restaurante,36,9,56.83,62,25.7,7.5,1353.47,0,minimarket
+AND-0015,Loja,minimarket,2,6,19.51,29,24.2,15.3,342.96,1,barrio
+AND-0016,Macara,tienda de barrio,24,6,19.73,6,30.9,13.9,256.81,1,barrio
+AND-0017,Loja,tienda de barrio,15,10,41.13,68,33.1,20.2,1124.76,1,minimarket
+AND-0018,Macara,minimarket,41,7,21.72,47,12.4,22.4,483.87,1,barrio
+AND-0019,Macara,tienda de barrio,20,8,46.12,61,7.6,11.4,948.46,0,minimarket
+AND-0020,Catamayo,restaurante,33,9,63.22,59,8.4,10.6,1366.62,0,minimarket
+AND-0021,Loja,tienda de barrio,26,11,54.87,64,46.4,8.5,1720.08,1,minimarket
+AND-0022,Catamayo,tienda de barrio,19,5,13.3,46,17.2,23.6,173.59,0,barrio
+AND-0023,Catamayo,minimarket,69,13,195.89,128,35.9,28.0,6309.37,1,mayorista
+AND-0024,Cariamanga,minimarket,18,17,227.58,142,33.8,10.4,9547.36,1,mayorista
+AND-0025,Macara,tienda de barrio,27,12,62.94,50,21.2,6.3,2365.31,0,minimarket
+AND-0026,Machala,restaurante,26,6,17.45,15,9.8,2.7,335.85,1,barrio
+AND-0027,Loja,restaurante,29,3,25.21,21,34.3,14.2,186.75,0,barrio
+AND-0028,Macara,tienda de barrio,66,7,22.47,38,20.6,9.2,403.48,1,barrio
+AND-0029,Loja,tienda de barrio,36,3,17.01,44,7.1,17.1,145.58,1,barrio
+AND-0030,Zamora,tienda de barrio,19,10,64.87,65,14.2,8.0,1663.84,0,minimarket
+AND-0031,Loja,minimarket,55,9,84.16,55,4.7,8.0,2254.15,1,minimarket
+AND-0032,Saraguro,minimarket,39,14,323.25,170,14.8,15.2,15470.68,1,mayorista
+AND-0033,Saraguro,tienda de barrio,19,5,13.74,17,22.0,14.8,192.86,1,barrio
+AND-0034,Loja,restaurante,51,6,14.68,15,19.0,10.7,216.39,0,barrio
+AND-0035,Machala,tienda de barrio,10,5,24.95,5,17.3,20.7,362.47,0,barrio
+AND-0036,Loja,panaderia,13,7,14.26,39,21.8,11.5,279.68,1,barrio
+AND-0037,Loja,panaderia,8,5,13.46,34,29.6,9.1,191.07,0,barrio
+AND-0038,Cariamanga,tienda de barrio,6,8,16.17,51,37.9,2.4,409.01,0,barrio
+AND-0039,Saraguro,tienda de barrio,49,6,19.74,5,41.4,12.5,370.03,0,barrio
+AND-0040,Loja,tienda de barrio,29,9,53.77,77,11.2,8.3,1411.95,1,minimarket
+AND-0041,Loja,restaurante,9,5,15.6,23,44.2,4.1,228.5,0,barrio
+AND-0042,Loja,tienda de barrio,25,7,47.42,70,20.6,18.0,1212.07,1,minimarket
+AND-0043,Machala,panaderia,42,10,47.02,40,15.8,16.0,1547.4,1,minimarket
+AND-0044,Cariamanga,tienda de barrio,16,5,14.83,40,8.7,24.1,224.93,0,barrio
+AND-0045,Loja,tienda de barrio,21,6,90.86,69,28.1,21.3,1527.33,1,minimarket
+AND-0046,Catamayo,restaurante,71,9,58.72,60,27.4,0.6,1387.92,0,minimarket
+AND-0047,Machala,tienda de barrio,22,5,21.88,30,13.2,15.7,357.06,0,barrio
+AND-0048,Machala,panaderia,9,9,16.16,13,13.5,8.9,429.36,0,barrio
+AND-0049,Loja,tienda de barrio,19,7,52.8,53,18.5,1.4,1023.11,0,minimarket
+AND-0050,Cariamanga,tienda de barrio,8,4,15.38,16,15.6,5.0,175.38,0,barrio
+AND-0051,Loja,tienda de barrio,37,8,10.04,5,10.8,8.7,205.41,1,barrio
+AND-0052,Loja,tienda de barrio,15,8,13.29,32,7.8,20.1,337.67,1,barrio
+AND-0053,Machala,minimarket,14,9,36.93,74,44.5,7.4,1058.68,0,minimarket
+AND-0054,Machala,tienda de barrio,74,9,33.53,52,14.2,4.0,912.68,0,minimarket
+AND-0055,Loja,tienda de barrio,12,11,42.28,64,27.3,1.8,1377.9,1,minimarket
+AND-0056,Machala,tienda de barrio,10,6,73.61,57,31.1,2.6,1200.65,0,minimarket
+AND-0057,Macara,minimarket,13,3,17.82,26,28.2,8.5,117.61,0,barrio
+AND-0058,Zamora,panaderia,43,10,73.06,52,32.3,10.9,1747.55,1,minimarket
+AND-0059,Zamora,minimarket,35,8,19.7,11,28.0,2.6,425.0,0,barrio
+AND-0060,Saraguro,restaurante,18,5,21.38,35,12.2,8.6,276.11,0,barrio
+AND-0061,Machala,tienda de barrio,17,10,45.11,59,16.3,15.1,1323.57,1,minimarket
+AND-0062,Loja,tienda de barrio,33,8,20.2,46,43.7,2.6,533.35,0,barrio
+AND-0063,Saraguro,tienda de barrio,29,13,64.56,61,13.8,13.1,2351.39,1,minimarket
+AND-0064,Loja,tienda de barrio,23,9,48.45,49,20.7,10.5,1507.65,1,minimarket
+AND-0065,Zamora,minimarket,35,10,62.2,75,29.7,7.5,1636.81,0,minimarket
+AND-0066,Loja,panaderia,12,13,62.3,68,54.6,6.0,2332.17,0,minimarket
+AND-0067,Catamayo,tienda de barrio,15,8,48.74,69,41.1,6.0,1135.22,0,minimarket
+AND-0068,Zamora,restaurante,36,8,14.06,36,9.5,15.3,366.03,1,barrio
+AND-0069,Loja,tienda de barrio,31,4,13.87,14,26.6,11.8,161.09,0,barrio
+AND-0070,Loja,minimarket,5,6,18.35,20,24.5,23.1,306.23,0,barrio
+AND-0071,Loja,tienda de barrio,26,6,19.34,20,16.4,11.2,268.64,0,barrio
+AND-0072,Macara,minimarket,73,4,15.12,7,21.1,2.4,159.92,0,barrio
+AND-0073,Loja,tienda de barrio,40,8,55.32,57,12.1,19.3,1417.33,0,minimarket
+AND-0074,Catamayo,restaurante,19,6,20.41,38,18.2,10.5,269.18,0,barrio
+AND-0075,Saraguro,restaurante,16,8,20.62,25,13.9,22.6,538.06,0,barrio
+AND-0076,Machala,tienda de barrio,32,6,25.32,6,22.3,10.3,467.08,0,barrio
+AND-0077,Zamora,tienda de barrio,49,6,23.84,5,16.0,24.6,352.54,1,barrio
+AND-0078,Loja,minimarket,7,11,44.13,80,57.3,5.3,1280.35,0,minimarket
+AND-0079,Machala,minimarket,30,8,79.66,59,22.9,6.4,2386.0,0,minimarket
+AND-0080,Zamora,minimarket,21,11,48.94,52,19.8,10.9,1858.93,1,minimarket
+AND-0081,Macara,minimarket,29,11,69.21,57,17.5,6.1,2195.98,1,minimarket
+AND-0082,Saraguro,panaderia,10,10,18.27,5,16.0,16.5,522.38,1,barrio
+AND-0083,Loja,minimarket,49,9,50.23,77,7.1,3.9,1228.23,0,minimarket
+AND-0084,Macara,tienda de barrio,56,5,12.09,17,35.8,3.2,182.28,0,barrio
+AND-0085,Saraguro,restaurante,38,7,17.33,38,50.1,6.6,324.94,0,barrio
+AND-0086,Loja,tienda de barrio,62,7,12.77,23,13.8,2.2,263.2,0,barrio
+AND-0087,Loja,tienda de barrio,20,9,68.04,77,43.5,10.2,2233.34,1,minimarket
+AND-0088,Loja,restaurante,30,5,25.13,25,88.9,6.6,362.84,0,barrio
+AND-0089,Cariamanga,tienda de barrio,38,7,15.11,32,68.8,2.5,274.23,0,barrio
+AND-0090,Loja,tienda de barrio,32,5,19.24,31,48.7,0.7,240.98,0,barrio
+AND-0091,Cariamanga,minimarket,22,5,15.34,29,8.0,6.4,228.18,0,barrio
+AND-0092,Zamora,panaderia,23,10,47.9,64,7.9,0.2,1300.66,0,minimarket
+AND-0093,Loja,tienda de barrio,53,8,21.34,19,32.2,4.6,519.49,0,barrio
+AND-0094,Loja,tienda de barrio,25,5,17.85,45,20.8,13.3,205.82,0,barrio
+AND-0095,Loja,tienda de barrio,47,3,26.39,11,2.8,13.0,246.82,0,barrio
+AND-0096,Catamayo,tienda de barrio,25,7,49.46,60,15.1,18.6,840.2,0,minimarket
+AND-0097,Zamora,tienda de barrio,47,4,22.43,22,31.2,8.0,262.45,0,barrio
+AND-0098,Cariamanga,tienda de barrio,27,4,18.39,27,18.4,11.3,202.01,0,barrio
+AND-0099,Machala,restaurante,36,6,21.44,17,20.9,3.1,476.77,0,barrio
+AND-0100,Machala,minimarket,17,14,190.32,144,7.9,12.3,7786.97,0,mayorista
+AND-0101,Loja,panaderia,30,15,207.72,138,14.9,12.8,11444.69,1,mayorista
+AND-0102,Macara,restaurante,17,9,53.62,41,32.3,5.3,1525.47,0,minimarket
+AND-0103,Catamayo,restaurante,20,5,14.98,22,14.3,16.3,253.49,0,barrio
+AND-0104,Saraguro,panaderia,21,18,242.93,127,45.9,5.2,12511.59,0,mayorista
+AND-0105,Loja,tienda de barrio,23,11,63.46,39,21.3,10.8,2099.4,0,minimarket
+AND-0106,Catamayo,panaderia,44,10,62.67,62,28.1,1.4,2190.98,0,minimarket
+AND-0107,Macara,minimarket,20,5,25.24,28,31.8,13.4,403.92,0,barrio
+AND-0108,Cariamanga,tienda de barrio,28,5,24.76,28,30.9,12.7,378.51,0,barrio
+AND-0109,Loja,tienda de barrio,47,7,16.57,29,9.3,7.2,324.21,1,barrio
+AND-0110,Loja,tienda de barrio,36,17,227.96,117,10.7,19.0,10556.22,1,mayorista
+AND-0111,Cariamanga,tienda de barrio,8,5,15.69,6,2.8,4.5,268.14,0,barrio
+AND-0112,Macara,panaderia,9,6,18.09,46,16.3,14.5,366.25,0,barrio
+AND-0113,Saraguro,tienda de barrio,32,3,15.78,9,10.1,4.4,129.26,0,barrio
+AND-0114,Loja,tienda de barrio,19,10,78.55,67,14.0,16.3,2005.2,1,minimarket
+AND-0115,Loja,tienda de barrio,9,7,19.5,14,17.6,5.3,356.67,0,barrio
+AND-0116,Zamora,panaderia,18,10,52.42,61,23.3,4.8,1719.37,1,minimarket
+AND-0117,Macara,tienda de barrio,33,13,71.52,52,18.6,2.5,2448.05,1,minimarket
+AND-0118,Loja,tienda de barrio,21,9,34.12,67,18.4,5.3,1003.67,1,minimarket
+AND-0119,Saraguro,panaderia,27,6,11.56,24,26.5,17.8,208.08,0,barrio
+AND-0120,Catamayo,panaderia,22,10,65.52,55,20.2,2.1,1816.34,0,minimarket
+AND-0121,Cariamanga,tienda de barrio,17,10,55.74,47,37.6,2.3,2031.06,1,minimarket
+AND-0122,Loja,minimarket,30,10,58.12,63,20.3,14.1,1363.56,1,minimarket
+AND-0123,Cariamanga,tienda de barrio,8,6,13.44,7,54.8,19.9,277.19,0,barrio
+AND-0124,Machala,restaurante,15,7,17.91,27,8.9,7.1,381.32,1,barrio
+AND-0125,Catamayo,minimarket,40,8,27.97,54,16.1,1.5,509.71,1,barrio
+AND-0126,Loja,minimarket,10,6,21.58,38,12.3,4.1,470.21,1,barrio
+AND-0127,Loja,tienda de barrio,26,7,18.68,31,24.0,5.7,435.37,1,barrio
+AND-0128,Loja,minimarket,20,5,16.34,21,8.9,7.5,225.14,1,barrio
+AND-0129,Machala,tienda de barrio,19,7,16.5,5,5.7,5.5,299.19,0,barrio
+AND-0130,Machala,tienda de barrio,42,9,34.43,44,10.5,1.7,753.12,0,minimarket
+AND-0131,Loja,minimarket,46,8,19.05,37,6.1,16.0,587.35,0,barrio
+AND-0132,Machala,panaderia,13,20,252.93,131,17.8,5.7,13164.13,1,mayorista
+AND-0133,Loja,tienda de barrio,23,10,38.89,52,23.3,5.4,969.4,0,minimarket
+AND-0134,Cariamanga,panaderia,6,2,15.56,20,4.9,5.5,94.62,0,barrio
+AND-0135,Macara,tienda de barrio,40,9,42.64,47,15.3,2.2,922.61,1,minimarket
+AND-0136,Catamayo,minimarket,25,8,14.56,7,41.0,19.4,284.63,0,barrio
+AND-0137,Saraguro,tienda de barrio,9,17,212.49,139,49.1,2.9,12195.84,1,mayorista
+AND-0138,Cariamanga,tienda de barrio,16,6,11.38,11,34.1,7.8,211.05,0,barrio
+AND-0139,Loja,restaurante,12,12,62.96,51,1.7,15.8,2024.54,0,minimarket
+AND-0140,Machala,tienda de barrio,15,7,21.25,13,21.8,3.1,441.98,1,barrio
+AND-0141,Loja,restaurante,7,8,17.03,28,44.2,9.4,371.92,1,barrio
+AND-0142,Loja,tienda de barrio,53,7,10.43,19,14.1,11.4,207.75,0,barrio
+AND-0143,Machala,minimarket,13,18,168.66,138,7.2,8.7,7972.87,1,mayorista
+AND-0144,Catamayo,tienda de barrio,26,11,72.14,67,42.1,7.4,2144.82,1,minimarket
+AND-0145,Catamayo,minimarket,33,7,9.77,20,46.2,4.0,186.6,1,barrio
+AND-0146,Loja,restaurante,46,6,16.68,19,20.1,6.8,266.06,0,barrio
+AND-0147,Loja,minimarket,26,5,13.88,28,7.3,7.7,231.4,0,barrio
+AND-0148,Loja,tienda de barrio,22,9,21.49,30,4.3,8.5,620.36,0,barrio
+AND-0149,Catamayo,panaderia,27,6,15.52,20,25.7,7.5,240.33,0,barrio
+AND-0150,Saraguro,minimarket,13,7,19.67,23,12.3,7.8,343.05,0,barrio
+AND-0151,Catamayo,tienda de barrio,14,10,62.29,51,19.2,5.0,1795.67,1,minimarket
+AND-0152,Machala,minimarket,22,15,314.53,130,17.7,10.4,17981.65,1,mayorista
+AND-0153,Machala,minimarket,5,6,17.21,31,10.0,6.7,264.05,0,barrio
+AND-0154,Loja,panaderia,17,12,59.74,65,4.1,26.7,1889.76,1,minimarket
+AND-0155,Machala,tienda de barrio,19,7,12.98,27,14.4,3.2,272.35,0,barrio
+AND-0156,Machala,tienda de barrio,67,7,71.47,63,22.4,11.2,1416.08,0,minimarket
+AND-0157,Machala,restaurante,50,6,15.23,23,23.2,12.2,246.17,0,barrio
+AND-0158,Macara,minimarket,33,13,48.62,68,11.7,1.3,2192.38,0,minimarket
+AND-0159,Loja,tienda de barrio,41,10,54.73,71,45.6,8.8,1682.87,1,minimarket
+AND-0160,Loja,restaurante,14,7,39.0,71,8.0,15.1,861.1,0,minimarket
+AND-0161,Machala,tienda de barrio,27,9,18.93,21,38.9,10.1,530.37,0,barrio
+AND-0162,Saraguro,tienda de barrio,38,17,259.81,157,21.9,18.8,13807.05,1,mayorista
+AND-0163,Machala,panaderia,14,6,19.2,25,14.5,15.2,399.82,0,barrio
+AND-0164,Macara,minimarket,10,5,12.69,30,28.1,7.5,219.78,0,barrio
+AND-0165,Loja,restaurante,31,12,53.52,63,16.9,0.6,2600.58,0,minimarket
+AND-0166,Catamayo,minimarket,10,5,21.19,25,5.6,14.2,352.01,0,barrio
+AND-0167,Machala,tienda de barrio,34,12,36.39,51,7.5,14.7,1132.96,1,minimarket
+AND-0168,Loja,tienda de barrio,46,11,43.42,68,16.1,28.0,1427.43,1,minimarket
+AND-0169,Macara,tienda de barrio,14,6,21.83,56,13.1,16.9,402.95,0,barrio
+AND-0170,Machala,restaurante,15,16,222.86,136,38.3,6.4,13392.63,1,mayorista
+AND-0171,Loja,tienda de barrio,45,6,19.71,23,12.6,14.2,295.78,1,barrio
+AND-0172,Loja,minimarket,26,8,27.1,17,12.0,13.0,664.36,0,barrio
+AND-0173,Saraguro,tienda de barrio,42,5,19.95,16,10.7,5.0,268.63,0,barrio
+AND-0174,Zamora,tienda de barrio,22,13,242.7,159,10.0,7.6,9821.73,0,mayorista
+AND-0175,Saraguro,tienda de barrio,23,7,32.68,14,10.3,14.4,630.42,1,barrio
+AND-0176,Loja,minimarket,26,7,17.17,16,6.5,6.1,374.76,0,barrio
+AND-0177,Loja,tienda de barrio,60,7,15.1,5,22.6,15.2,248.55,1,barrio
+AND-0178,Catamayo,restaurante,40,17,230.72,131,18.0,7.8,12653.52,1,mayorista
+AND-0179,Loja,restaurante,16,15,231.29,119,17.4,17.6,9966.95,1,mayorista
+AND-0180,Loja,tienda de barrio,28,11,48.98,68,4.6,7.4,1601.72,1,minimarket
+AND-0181,Zamora,panaderia,21,16,167.33,174,26.4,2.5,10250.04,1,mayorista
+AND-0182,Loja,tienda de barrio,19,15,349.07,136,28.3,8.9,14434.58,1,mayorista
+AND-0183,Zamora,tienda de barrio,34,6,19.34,5,53.1,15.8,341.84,0,barrio
+AND-0184,Machala,tienda de barrio,30,9,15.32,33,27.3,7.0,407.78,0,barrio
+AND-0185,Cariamanga,panaderia,14,7,67.28,51,60.2,12.8,1378.36,1,minimarket
+AND-0186,Cariamanga,minimarket,26,11,53.7,76,11.5,3.9,2330.04,1,minimarket
+AND-0187,Loja,tienda de barrio,18,3,17.03,19,55.0,6.9,150.45,0,barrio
+AND-0188,Cariamanga,minimarket,33,6,20.37,14,27.9,5.0,334.04,0,barrio
+AND-0189,Catamayo,minimarket,18,9,41.39,58,25.5,10.7,1366.58,1,minimarket
+AND-0190,Loja,panaderia,23,3,19.45,31,17.1,9.4,162.11,0,barrio
+AND-0191,Cariamanga,minimarket,19,17,319.88,137,14.5,26.2,11907.01,0,mayorista
+AND-0192,Loja,panaderia,8,5,19.94,16,12.2,1.9,269.65,0,barrio
+AND-0193,Loja,minimarket,58,3,16.57,20,56.2,23.8,115.21,1,barrio
+AND-0194,Cariamanga,tienda de barrio,26,11,49.19,45,16.7,5.7,1256.44,1,minimarket
+AND-0195,Catamayo,panaderia,59,8,16.45,27,28.2,6.4,367.33,1,barrio
+AND-0196,Loja,tienda de barrio,27,8,17.02,5,32.6,15.2,381.1,1,barrio
+AND-0197,Loja,minimarket,37,11,50.61,55,32.3,25.3,1757.68,1,minimarket
+AND-0198,Loja,minimarket,17,16,256.9,149,22.6,20.9,12306.84,1,mayorista
+AND-0199,Saraguro,tienda de barrio,17,8,12.29,26,54.3,26.4,285.91,1,barrio
+AND-0200,Saraguro,tienda de barrio,25,9,21.76,29,26.7,1.7,519.69,0,barrio
+AND-0201,Loja,minimarket,59,12,50.59,59,12.0,13.5,1937.19,1,minimarket
+AND-0202,Cariamanga,panaderia,14,14,228.16,154,15.0,11.1,10992.26,1,mayorista
+AND-0203,Machala,panaderia,6,6,14.05,33,4.8,12.9,253.0,0,barrio
+AND-0204,Cariamanga,minimarket,45,7,24.11,27,24.4,7.7,519.06,1,barrio
+AND-0205,Saraguro,tienda de barrio,39,3,23.67,33,29.9,15.2,170.17,0,barrio
+AND-0206,Cariamanga,tienda de barrio,20,7,22.23,31,31.7,4.9,525.32,0,barrio
+AND-0207,Machala,panaderia,72,10,12.9,17,27.9,11.7,465.86,0,barrio
+AND-0208,Machala,tienda de barrio,73,11,66.01,44,17.2,0.5,2267.36,1,minimarket
+AND-0209,Loja,panaderia,7,8,19.68,27,19.7,4.3,429.97,1,barrio
+AND-0210,Loja,tienda de barrio,17,6,12.64,29,19.7,4.0,219.35,0,barrio
+AND-0211,Loja,tienda de barrio,25,10,54.71,73,38.4,13.3,1474.51,1,minimarket
+AND-0212,Zamora,minimarket,32,11,59.59,49,3.1,1.7,1864.18,1,minimarket
+AND-0213,Loja,minimarket,29,5,20.34,11,13.7,3.4,327.57,1,barrio
+AND-0214,Machala,minimarket,26,8,57.19,66,8.4,4.8,1397.07,0,minimarket
+AND-0215,Loja,tienda de barrio,13,12,58.64,59,68.9,13.6,2279.52,0,minimarket
+AND-0216,Cariamanga,panaderia,34,12,76.06,37,43.5,10.9,2752.96,1,minimarket
+AND-0217,Loja,tienda de barrio,36,4,23.57,27,14.2,12.4,240.73,0,barrio
+AND-0218,Saraguro,panaderia,43,8,9.58,5,5.9,9.4,207.64,0,barrio
+AND-0219,Catamayo,minimarket,12,16,195.83,129,7.5,27.3,7819.27,1,mayorista
+AND-0220,Macara,tienda de barrio,23,7,17.36,38,38.0,7.5,345.56,0,barrio
+AND-0221,Saraguro,minimarket,19,7,12.24,44,4.7,18.8,301.11,1,barrio
+AND-0222,Catamayo,minimarket,12,8,18.38,7,19.9,5.3,557.16,0,barrio
+AND-0223,Macara,tienda de barrio,22,10,72.39,56,33.9,9.9,2329.02,0,minimarket
+AND-0224,Machala,minimarket,13,18,165.35,141,6.8,7.0,8823.69,1,mayorista
+AND-0225,Zamora,tienda de barrio,10,6,19.38,43,19.7,14.7,275.72,0,barrio
+AND-0226,Macara,restaurante,39,17,171.68,134,14.4,13.5,8541.91,1,mayorista
+AND-0227,Saraguro,tienda de barrio,20,5,15.53,16,12.9,23.6,191.13,0,barrio
+AND-0228,Machala,tienda de barrio,16,13,76.12,79,11.2,4.5,3606.1,0,minimarket
+AND-0229,Saraguro,panaderia,49,11,48.81,56,35.9,7.5,1269.5,0,minimarket
+AND-0230,Machala,tienda de barrio,36,7,19.93,31,49.7,5.1,431.35,0,barrio
+AND-0231,Zamora,restaurante,6,3,11.93,5,16.1,1.9,95.13,1,barrio
+AND-0232,Loja,tienda de barrio,32,5,27.11,20,25.5,3.0,401.46,1,barrio
+AND-0233,Loja,tienda de barrio,32,18,239.77,120,20.1,10.0,13575.64,1,mayorista
+AND-0234,Macara,tienda de barrio,22,10,52.84,47,3.6,5.5,1772.14,0,minimarket
+AND-0235,Macara,tienda de barrio,21,13,238.35,150,15.7,12.1,8793.39,0,mayorista
+AND-0236,Cariamanga,tienda de barrio,8,12,40.33,59,2.9,7.4,1557.28,0,minimarket
+AND-0237,Machala,tienda de barrio,71,5,23.35,18,13.4,4.5,315.79,1,barrio
+AND-0238,Saraguro,tienda de barrio,22,12,51.22,51,19.3,10.4,1827.58,1,minimarket
+AND-0239,Catamayo,tienda de barrio,31,6,17.21,19,32.1,5.9,344.88,1,barrio
+AND-0240,Cariamanga,tienda de barrio,23,6,16.15,26,23.9,4.5,298.27,0,barrio
+AND-0241,Loja,tienda de barrio,17,12,48.4,72,36.5,2.5,1610.89,0,minimarket
+AND-0242,Cariamanga,tienda de barrio,40,9,64.08,28,9.8,5.5,1633.23,1,minimarket
+AND-0243,Machala,tienda de barrio,28,4,19.04,12,45.6,11.1,249.6,0,barrio
+AND-0244,Loja,tienda de barrio,22,6,20.78,24,49.7,8.6,313.81,0,barrio
+AND-0245,Zamora,tienda de barrio,31,11,54.89,59,2.7,9.9,1541.11,1,minimarket
+AND-0246,Zamora,tienda de barrio,24,8,61.57,65,4.4,17.6,1489.72,1,minimarket
+AND-0247,Loja,tienda de barrio,62,7,50.16,63,19.0,1.6,988.79,1,minimarket
+AND-0248,Zamora,restaurante,40,7,29.4,18,12.6,6.8,497.76,1,barrio
+AND-0249,Zamora,tienda de barrio,34,5,12.75,16,14.3,4.2,224.28,0,barrio
+AND-0250,Saraguro,tienda de barrio,9,5,23.75,19,23.8,4.7,303.22,0,barrio
+AND-0251,Loja,minimarket,35,7,74.31,74,37.5,1.1,1514.14,0,minimarket
+AND-0252,Loja,tienda de barrio,34,9,45.6,51,9.3,4.7,1115.4,0,minimarket
+AND-0253,Cariamanga,tienda de barrio,14,6,29.39,21,41.7,9.2,490.93,0,barrio
+AND-0254,Loja,panaderia,9,7,22.41,24,11.1,10.2,403.03,0,barrio
+AND-0255,Loja,minimarket,39,5,22.29,41,74.9,14.3,346.71,0,barrio
+AND-0256,Machala,restaurante,42,13,55.34,56,45.9,5.4,2144.1,1,minimarket
+AND-0257,Macara,restaurante,17,9,52.43,72,12.0,15.7,1511.57,1,minimarket
+AND-0258,Macara,minimarket,17,5,17.19,37,6.0,22.9,217.24,0,barrio
+AND-0259,Machala,minimarket,28,8,19.61,21,11.8,22.3,567.77,1,barrio
+AND-0260,Loja,tienda de barrio,20,10,74.86,57,10.5,19.9,1619.04,1,minimarket
+AND-0261,Loja,restaurante,9,5,18.73,18,29.4,8.9,220.8,1,barrio
+AND-0262,Cariamanga,minimarket,13,10,45.01,57,2.8,7.2,1648.96,0,minimarket
+AND-0263,Catamayo,tienda de barrio,31,8,21.58,32,4.5,3.0,544.49,0,barrio
+AND-0264,Loja,tienda de barrio,14,8,22.04,25,28.9,12.3,526.8,0,barrio
+AND-0265,Zamora,minimarket,43,15,242.53,143,10.1,9.8,11108.13,1,mayorista
+AND-0266,Loja,minimarket,34,6,21.21,8,13.6,15.4,386.85,0,barrio
+AND-0267,Saraguro,panaderia,31,6,16.96,10,33.8,5.4,310.82,0,barrio
+AND-0268,Cariamanga,tienda de barrio,27,4,14.67,48,38.6,11.0,148.7,0,barrio
+AND-0269,Cariamanga,panaderia,16,6,14.87,20,44.4,8.3,288.2,0,barrio
+AND-0270,Loja,tienda de barrio,36,6,12.56,13,31.9,6.5,240.2,0,barrio
+AND-0271,Loja,minimarket,16,8,18.96,39,16.7,26.4,492.26,0,barrio
+AND-0272,Machala,tienda de barrio,44,8,17.67,25,15.7,2.9,527.45,0,barrio
+AND-0273,Machala,tienda de barrio,56,5,16.34,29,14.3,7.6,248.38,0,barrio
+AND-0274,Saraguro,tienda de barrio,28,10,28.71,58,6.9,7.1,714.21,0,minimarket
+AND-0275,Loja,tienda de barrio,52,11,41.8,56,9.0,9.8,1671.39,0,minimarket
+AND-0276,Cariamanga,tienda de barrio,14,5,23.03,20,40.6,3.0,299.13,0,barrio
+AND-0277,Loja,panaderia,34,7,15.55,5,11.0,15.6,320.74,0,barrio
+AND-0278,Loja,tienda de barrio,25,6,19.49,21,6.9,7.5,329.52,1,barrio
+AND-0279,Loja,panaderia,39,14,154.65,144,42.9,15.8,5768.45,1,mayorista
+AND-0280,Loja,minimarket,6,8,75.48,82,22.8,2.8,1979.21,1,minimarket
+AND-0281,Loja,tienda de barrio,38,8,17.44,23,57.0,0.7,430.91,0,barrio
+AND-0282,Loja,restaurante,17,6,19.19,5,53.1,7.9,358.03,0,barrio
+AND-0283,Zamora,panaderia,26,9,30.03,21,7.5,11.3,697.54,1,barrio
+AND-0284,Saraguro,panaderia,71,5,25.13,55,18.1,3.3,363.84,0,barrio
+AND-0285,Catamayo,panaderia,35,10,51.41,70,8.4,13.5,1323.02,1,minimarket
+AND-0286,Loja,minimarket,32,10,15.8,12,8.4,12.6,439.51,1,barrio
+AND-0287,Machala,restaurante,31,4,16.76,29,14.0,4.7,194.46,0,barrio
+AND-0288,Loja,tienda de barrio,47,3,20.14,13,30.0,5.4,225.59,0,barrio
+AND-0289,Loja,tienda de barrio,40,8,17.59,6,30.2,3.1,403.3,0,barrio
+AND-0290,Cariamanga,minimarket,31,5,16.5,18,27.6,13.1,178.29,0,barrio
+AND-0291,Macara,tienda de barrio,29,10,75.95,61,16.7,2.2,2708.46,1,minimarket
+AND-0292,Zamora,minimarket,28,5,17.55,5,31.3,1.8,277.15,0,barrio
+AND-0293,Catamayo,tienda de barrio,25,16,348.28,126,6.8,4.3,16163.32,1,mayorista
+AND-0294,Catamayo,tienda de barrio,12,4,18.36,22,23.0,8.9,201.02,0,barrio
+AND-0295,Loja,restaurante,34,10,81.46,55,19.8,2.9,2136.65,1,minimarket
+AND-0296,Cariamanga,tienda de barrio,18,17,227.17,145,15.9,14.1,14096.95,1,mayorista
+AND-0297,Catamayo,tienda de barrio,23,14,259.55,125,23.7,13.4,10409.19,1,mayorista
+AND-0298,Loja,minimarket,41,9,46.9,69,8.6,20.1,932.14,1,minimarket
+AND-0299,Loja,panaderia,25,9,45.58,46,28.4,6.7,1251.13,0,minimarket
+AND-0300,Machala,panaderia,24,8,60.85,80,19.4,3.5,1685.33,0,minimarket
+AND-0301,Loja,tienda de barrio,28,9,68.36,39,4.9,22.9,1717.73,1,minimarket
+AND-0302,Loja,restaurante,21,6,18.16,9,19.1,1.6,288.94,0,barrio
+AND-0303,Machala,minimarket,70,5,13.56,27,12.7,3.6,176.34,1,barrio
+AND-0304,Macara,panaderia,65,6,13.34,42,41.3,18.9,197.63,0,barrio
+AND-0305,Cariamanga,tienda de barrio,64,10,40.18,64,7.3,7.5,1426.69,1,minimarket
+AND-0306,Cariamanga,tienda de barrio,31,5,12.2,29,7.5,6.4,176.84,0,barrio
+AND-0307,Loja,minimarket,17,7,18.44,22,25.9,3.6,307.01,0,barrio
+AND-0308,Zamora,minimarket,42,12,70.45,48,17.2,4.5,2619.92,1,minimarket
+AND-0309,Loja,tienda de barrio,21,5,17.95,16,16.6,4.2,269.8,0,barrio
+AND-0310,Machala,minimarket,44,7,10.95,7,75.2,15.3,204.15,0,barrio
+AND-0311,Loja,minimarket,17,6,17.26,7,30.7,7.0,264.76,1,barrio
+AND-0312,Cariamanga,tienda de barrio,32,7,17.37,27,15.0,6.6,309.59,0,barrio
+AND-0313,Saraguro,tienda de barrio,47,9,28.55,9,4.3,12.0,846.83,1,barrio
+AND-0314,Loja,tienda de barrio,22,7,13.06,26,14.3,4.4,278.44,0,barrio
+AND-0315,Catamayo,panaderia,22,3,16.52,6,6.6,6.9,154.03,0,barrio
+AND-0316,Zamora,minimarket,10,7,26.2,26,9.1,8.0,550.51,0,barrio
+AND-0317,Loja,minimarket,17,8,19.87,16,9.3,11.0,476.58,0,barrio
+AND-0318,Machala,restaurante,30,10,62.26,77,39.1,8.9,1697.3,0,minimarket
+AND-0319,Loja,minimarket,33,8,18.46,26,5.4,10.6,413.76,0,barrio
+AND-0320,Cariamanga,tienda de barrio,36,15,225.81,155,36.5,21.7,10836.16,1,mayorista
+AND-0321,Cariamanga,minimarket,7,14,249.18,131,26.7,0.3,12563.96,0,mayorista
+AND-0322,Saraguro,restaurante,21,6,15.06,23,26.4,2.2,229.3,0,barrio
+AND-0323,Cariamanga,tienda de barrio,10,3,21.84,10,8.7,4.7,187.85,0,barrio
+AND-0324,Macara,minimarket,30,6,13.31,17,33.2,2.2,264.94,1,barrio
+AND-0325,Cariamanga,tienda de barrio,8,12,59.12,57,7.9,4.2,2674.38,0,minimarket
+AND-0326,Saraguro,panaderia,13,7,57.21,51,50.3,1.2,1507.61,0,minimarket
+AND-0327,Cariamanga,minimarket,40,8,48.03,45,39.7,5.1,1019.04,1,minimarket
+AND-0328,Catamayo,restaurante,18,4,17.91,5,56.0,17.5,236.59,0,barrio
+AND-0329,Loja,minimarket,53,10,47.96,32,19.9,3.8,1428.62,0,minimarket
+AND-0330,Loja,tienda de barrio,36,5,14.22,9,17.2,10.4,234.55,0,barrio
+AND-0331,Cariamanga,tienda de barrio,22,12,50.88,68,14.0,14.4,1916.94,1,minimarket
+AND-0332,Machala,restaurante,43,8,14.12,5,74.2,9.8,276.69,0,barrio
+AND-0333,Loja,tienda de barrio,23,11,59.05,44,29.8,2.3,2074.56,0,minimarket
+AND-0334,Saraguro,tienda de barrio,38,10,42.7,81,6.7,14.7,1377.38,1,minimarket
+AND-0335,Loja,minimarket,17,7,21.05,14,46.5,3.3,435.3,0,barrio
+AND-0336,Cariamanga,tienda de barrio,44,9,42.41,64,16.7,6.1,1082.97,1,minimarket
+AND-0337,Macara,tienda de barrio,9,7,15.89,30,1.1,18.7,252.46,1,barrio
+AND-0338,Macara,tienda de barrio,13,8,47.94,68,10.5,1.7,1249.27,0,minimarket
+AND-0339,Macara,tienda de barrio,14,7,24.09,5,39.7,16.5,486.82,1,barrio
+AND-0340,Zamora,minimarket,18,18,225.83,137,26.8,8.9,10446.81,1,mayorista
+AND-0341,Loja,tienda de barrio,31,6,17.18,5,30.6,8.1,287.18,0,barrio
+AND-0342,Saraguro,tienda de barrio,26,16,234.35,169,46.2,5.7,11225.41,1,mayorista
+AND-0343,Loja,panaderia,39,11,34.6,41,3.6,20.8,976.87,1,minimarket
+AND-0344,Machala,tienda de barrio,48,5,54.48,47,10.6,9.4,787.93,1,minimarket
+AND-0345,Zamora,minimarket,8,10,85.35,48,20.2,18.2,1896.75,0,minimarket
+AND-0346,Loja,tienda de barrio,51,10,56.62,42,40.5,2.4,2005.62,1,minimarket
+AND-0347,Loja,tienda de barrio,23,16,213.16,156,7.8,0.4,10237.09,1,mayorista
+AND-0348,Catamayo,minimarket,63,7,20.31,51,14.9,16.0,346.96,1,barrio
+AND-0349,Machala,minimarket,16,10,66.98,54,19.3,9.1,1408.39,0,minimarket
+AND-0350,Loja,restaurante,7,4,11.6,6,10.1,2.6,157.54,0,barrio
+AND-0351,Cariamanga,tienda de barrio,37,10,37.99,33,19.1,10.7,1175.03,1,minimarket
+AND-0352,Catamayo,tienda de barrio,35,6,18.85,19,17.1,20.7,320.96,0,barrio
+AND-0353,Cariamanga,tienda de barrio,13,10,47.0,56,12.5,8.1,1528.39,0,minimarket
+AND-0354,Cariamanga,minimarket,14,10,73.4,52,33.2,15.1,2319.73,1,minimarket
+AND-0355,Loja,tienda de barrio,40,8,16.79,25,29.2,15.9,388.0,1,barrio
+AND-0356,Zamora,restaurante,32,4,11.76,27,34.2,5.7,133.54,0,barrio
+AND-0357,Loja,panaderia,22,10,41.61,64,36.3,17.6,1102.37,0,minimarket
+AND-0358,Zamora,tienda de barrio,34,12,30.04,56,4.7,8.0,1107.12,1,minimarket
+AND-0359,Loja,tienda de barrio,30,3,17.1,9,5.3,17.2,172.34,0,barrio
+AND-0360,Cariamanga,tienda de barrio,15,10,52.77,68,31.3,26.1,1405.26,0,minimarket
+AND-0361,Catamayo,minimarket,42,15,191.28,140,13.5,4.1,10264.51,0,mayorista
+AND-0362,Cariamanga,minimarket,37,5,22.82,33,12.1,7.5,348.95,1,barrio
+AND-0363,Loja,restaurante,26,5,23.43,31,10.6,24.9,333.92,0,barrio
+AND-0364,Cariamanga,tienda de barrio,40,6,17.34,5,35.0,8.1,413.39,0,barrio
+AND-0365,Loja,tienda de barrio,67,13,34.39,43,71.1,10.5,1595.52,1,minimarket
+AND-0366,Catamayo,tienda de barrio,14,4,20.62,13,36.2,9.4,296.65,0,barrio
+AND-0367,Zamora,tienda de barrio,22,8,62.15,47,13.0,4.4,1321.93,1,minimarket
+AND-0368,Catamayo,restaurante,23,8,58.87,69,33.8,19.7,1736.41,0,minimarket
+AND-0369,Saraguro,panaderia,40,9,22.34,26,5.1,11.6,570.14,0,barrio
+AND-0370,Cariamanga,panaderia,18,15,162.53,153,16.2,9.7,6835.81,1,mayorista
+AND-0371,Catamayo,panaderia,38,10,85.56,65,3.6,3.0,1916.22,0,minimarket
+AND-0372,Machala,tienda de barrio,19,5,14.57,25,13.5,4.6,223.99,1,barrio
+AND-0373,Catamayo,minimarket,12,4,21.23,36,21.9,7.8,214.65,0,barrio
+AND-0374,Machala,minimarket,27,6,12.42,28,79.8,17.9,219.52,0,barrio
+AND-0375,Machala,tienda de barrio,19,10,14.67,23,42.7,22.5,345.67,1,barrio
+AND-0376,Catamayo,tienda de barrio,28,8,25.13,40,3.7,6.6,742.56,1,barrio
+AND-0377,Catamayo,minimarket,32,15,198.29,141,4.1,1.8,9520.0,1,mayorista
+AND-0378,Macara,restaurante,9,7,21.65,18,10.2,12.8,581.39,1,barrio
+AND-0379,Zamora,tienda de barrio,20,5,18.96,12,60.8,7.7,241.61,0,barrio
+AND-0380,Loja,restaurante,27,7,53.74,68,3.8,14.7,1302.28,0,minimarket
+AND-0381,Loja,restaurante,40,12,74.25,75,10.7,18.1,1967.36,1,minimarket
+AND-0382,Loja,restaurante,38,18,199.35,139,10.7,4.0,10889.91,1,mayorista
+AND-0383,Zamora,tienda de barrio,15,12,37.17,76,25.8,2.2,1222.21,1,minimarket
+AND-0384,Macara,tienda de barrio,23,5,15.08,5,34.4,13.4,202.41,1,barrio
+AND-0385,Loja,minimarket,33,6,20.32,21,29.4,11.8,326.49,0,barrio
+AND-0386,Saraguro,tienda de barrio,22,17,229.09,140,23.3,6.7,10106.36,1,mayorista
+AND-0387,Zamora,tienda de barrio,16,11,38.96,51,4.9,1.8,1083.92,1,minimarket
+AND-0388,Machala,panaderia,25,15,179.07,169,20.7,6.4,7420.49,1,mayorista
+AND-0389,Loja,tienda de barrio,32,3,15.84,21,47.0,5.4,141.72,0,barrio
+AND-0390,Loja,tienda de barrio,14,10,50.75,55,57.8,4.6,1739.82,1,minimarket
+AND-0391,Catamayo,restaurante,35,12,40.64,60,25.3,4.8,1492.24,1,minimarket
+AND-0392,Cariamanga,tienda de barrio,28,4,15.68,5,3.7,11.1,209.62,0,barrio
+AND-0393,Loja,restaurante,36,11,46.85,51,25.6,1.9,1266.43,1,minimarket
+AND-0394,Loja,tienda de barrio,25,11,65.17,72,17.1,9.7,1957.06,1,minimarket
+AND-0395,Zamora,tienda de barrio,62,7,21.51,14,4.4,2.8,490.12,0,barrio
+AND-0396,Saraguro,tienda de barrio,31,7,17.43,12,7.4,7.1,372.28,0,barrio
+AND-0397,Loja,tienda de barrio,38,9,50.46,76,8.7,14.9,1148.31,1,minimarket
+AND-0398,Catamayo,tienda de barrio,35,3,18.56,38,31.3,6.7,183.75,1,barrio
+AND-0399,Loja,panaderia,23,5,15.04,28,56.2,6.3,205.44,0,barrio
+AND-0400,Catamayo,restaurante,30,7,13.99,17,28.0,6.2,259.22,1,barrio
+AND-0401,Catamayo,tienda de barrio,18,5,14.64,19,32.0,9.9,225.04,0,barrio
+AND-0402,Loja,tienda de barrio,59,15,182.63,130,18.0,3.5,8114.22,1,mayorista
+AND-0403,Loja,minimarket,33,7,42.58,48,11.9,9.1,806.18,0,minimarket
+AND-0404,Machala,tienda de barrio,16,9,18.65,9,28.6,4.9,459.56,0,barrio
+AND-0405,Machala,tienda de barrio,52,17,246.57,133,23.5,3.6,10790.86,1,mayorista
+AND-0406,Loja,tienda de barrio,24,17,148.11,128,9.5,2.0,7119.63,1,mayorista
+AND-0407,Cariamanga,tienda de barrio,41,8,18.1,5,22.4,6.8,488.07,0,barrio
+AND-0408,Loja,minimarket,9,11,52.4,63,19.0,2.4,1768.58,1,minimarket
+AND-0409,Zamora,tienda de barrio,47,6,19.4,25,14.8,4.3,389.0,0,barrio
+AND-0410,Machala,panaderia,32,16,209.4,160,11.6,1.7,10678.38,0,mayorista
+AND-0411,Cariamanga,tienda de barrio,15,9,39.95,52,25.3,10.6,955.51,0,minimarket
+AND-0412,Cariamanga,tienda de barrio,32,14,41.66,64,12.2,7.6,1370.81,1,minimarket
+AND-0413,Catamayo,minimarket,56,7,18.12,26,71.2,7.4,327.72,1,barrio
+AND-0414,Loja,tienda de barrio,18,15,263.34,137,27.4,1.5,10797.41,1,mayorista
+AND-0415,Saraguro,restaurante,18,7,11.06,31,25.6,8.1,204.16,0,barrio
+AND-0416,Loja,minimarket,23,4,19.42,31,16.6,1.1,263.62,0,barrio
+AND-0417,Macara,panaderia,27,8,23.38,26,13.8,3.5,628.01,1,barrio
+AND-0418,Saraguro,tienda de barrio,43,9,53.18,57,2.8,15.6,1799.36,1,minimarket
+AND-0419,Loja,tienda de barrio,33,7,20.32,18,10.0,5.2,378.66,0,barrio
+AND-0420,Cariamanga,tienda de barrio,23,18,179.91,124,3.6,8.1,11584.92,1,mayorista
+AND-0421,Zamora,minimarket,30,11,53.57,50,3.5,16.8,2033.6,1,minimarket
+AND-0422,Cariamanga,minimarket,61,6,12.6,15,6.4,0.7,219.46,0,barrio
+AND-0423,Saraguro,tienda de barrio,37,6,10.75,9,43.8,16.8,192.49,0,barrio
+AND-0424,Zamora,tienda de barrio,24,6,22.15,27,43.6,16.9,438.03,1,barrio
+AND-0425,Loja,tienda de barrio,23,9,44.28,74,10.3,20.1,1094.72,1,minimarket
+AND-0426,Cariamanga,tienda de barrio,29,9,49.76,49,4.8,4.9,1295.03,1,minimarket
+AND-0427,Catamayo,tienda de barrio,43,8,13.27,25,13.3,17.5,273.78,1,barrio
+AND-0428,Loja,minimarket,17,10,40.33,48,31.1,2.2,882.7,0,minimarket
+AND-0429,Machala,restaurante,39,5,17.32,18,37.8,12.0,250.09,0,barrio
+AND-0430,Catamayo,tienda de barrio,24,9,46.84,52,22.1,13.0,1095.53,0,minimarket
+AND-0431,Loja,tienda de barrio,26,18,228.21,147,25.1,0.3,10703.23,1,mayorista
+AND-0432,Loja,tienda de barrio,87,11,60.76,52,23.3,4.5,2081.54,1,minimarket
+AND-0433,Machala,tienda de barrio,37,11,59.02,72,3.9,11.5,1541.44,1,minimarket
+AND-0434,Machala,minimarket,19,10,57.96,57,5.3,11.3,1846.98,1,minimarket
+AND-0435,Loja,tienda de barrio,32,7,25.47,14,57.7,28.0,508.24,1,barrio
+AND-0436,Cariamanga,restaurante,44,5,14.23,7,22.0,19.9,187.12,0,barrio
+AND-0437,Loja,panaderia,37,6,17.78,25,2.0,6.8,309.12,0,barrio
+AND-0438,Macara,tienda de barrio,6,8,23.09,33,26.2,1.8,471.43,0,barrio
+AND-0439,Saraguro,restaurante,26,11,72.64,63,8.4,1.4,2628.5,0,minimarket
+AND-0440,Loja,minimarket,33,8,40.23,87,39.9,10.5,949.37,0,minimarket
+AND-0441,Saraguro,restaurante,32,9,51.35,77,37.0,8.6,1387.01,0,minimarket
+AND-0442,Machala,tienda de barrio,20,6,24.27,18,29.9,7.0,453.76,1,barrio
+AND-0443,Catamayo,restaurante,38,13,61.5,56,21.8,19.7,2039.16,1,minimarket
+AND-0444,Loja,tienda de barrio,47,3,18.79,28,46.7,14.6,131.01,0,barrio
+AND-0445,Machala,tienda de barrio,9,6,17.16,12,49.9,1.0,348.47,0,barrio
+AND-0446,Loja,restaurante,8,8,50.55,74,8.6,9.7,1277.33,0,minimarket
+AND-0447,Saraguro,tienda de barrio,32,15,223.75,144,29.7,10.7,9005.32,1,mayorista
+AND-0448,Saraguro,tienda de barrio,40,9,52.03,63,11.7,3.1,1463.88,0,minimarket
+AND-0449,Loja,tienda de barrio,18,5,17.83,30,7.5,0.6,314.24,0,barrio
+AND-0450,Loja,tienda de barrio,6,9,55.96,81,49.9,18.3,1628.67,0,minimarket
+AND-0451,Loja,tienda de barrio,26,6,15.51,24,33.1,14.2,245.26,0,barrio
+AND-0452,Loja,tienda de barrio,32,15,236.08,139,23.2,4.9,8589.26,1,mayorista
+AND-0453,Saraguro,minimarket,22,8,104.42,78,9.3,3.0,2087.31,1,minimarket
+AND-0454,Zamora,panaderia,44,7,12.18,34,50.9,10.2,235.99,1,barrio
+AND-0455,Loja,tienda de barrio,31,7,19.33,18,8.3,7.8,476.19,0,barrio
+AND-0456,Macara,panaderia,17,7,15.23,22,6.6,8.8,281.09,0,barrio
+AND-0457,Catamayo,minimarket,18,14,238.44,142,19.0,1.4,9217.56,1,mayorista
+AND-0458,Loja,panaderia,26,6,18.19,26,31.1,1.9,299.98,1,barrio
+AND-0459,Saraguro,panaderia,21,11,65.04,44,14.4,5.2,1962.91,0,minimarket
+AND-0460,Loja,restaurante,8,8,71.23,41,21.6,8.3,1652.53,0,minimarket
+AND-0461,Cariamanga,tienda de barrio,29,10,57.38,49,11.7,19.4,1348.76,0,minimarket
+AND-0462,Catamayo,minimarket,19,6,23.09,10,12.8,4.7,469.89,0,barrio
+AND-0463,Cariamanga,restaurante,20,19,125.38,132,62.1,1.5,6972.91,1,mayorista
+AND-0464,Machala,minimarket,13,9,25.54,30,17.6,7.5,924.36,0,barrio
+AND-0465,Loja,tienda de barrio,57,7,59.73,58,48.7,12.8,1023.83,0,minimarket
+AND-0466,Machala,minimarket,36,14,69.72,62,3.4,5.1,3529.92,1,minimarket
+AND-0467,Loja,panaderia,64,9,42.05,45,40.5,20.7,1252.14,1,minimarket
+AND-0468,Loja,tienda de barrio,22,18,174.92,134,9.8,28.0,7989.23,0,mayorista
+AND-0469,Loja,minimarket,37,8,18.59,29,33.7,19.9,391.39,0,barrio
+AND-0470,Zamora,panaderia,30,4,17.93,29,9.7,16.3,178.91,0,barrio
+AND-0471,Macara,minimarket,18,7,19.16,13,13.6,13.1,339.47,0,barrio
+AND-0472,Machala,tienda de barrio,22,6,22.85,24,7.2,14.0,389.12,0,barrio
+AND-0473,Macara,minimarket,36,7,12.21,48,34.1,3.7,253.44,1,barrio
+AND-0474,Catamayo,minimarket,13,6,22.3,22,38.0,6.3,318.02,0,barrio
+AND-0475,Machala,tienda de barrio,45,8,18.03,14,10.0,11.0,558.37,1,barrio
+AND-0476,Machala,minimarket,28,6,17.21,20,4.5,14.0,283.38,1,barrio
+AND-0477,Zamora,tienda de barrio,41,6,13.02,23,48.2,14.7,223.0,1,barrio
+AND-0478,Saraguro,panaderia,32,12,61.44,58,11.1,13.4,1933.82,1,minimarket
+AND-0479,Zamora,panaderia,9,11,32.34,60,16.9,8.2,998.3,1,minimarket
+AND-0480,Loja,panaderia,26,7,20.76,5,8.5,5.9,406.7,0,barrio
+AND-0481,Machala,minimarket,45,5,12.96,10,31.8,9.3,187.38,0,barrio
+AND-0482,Machala,tienda de barrio,28,4,18.21,20,32.4,7.7,211.65,0,barrio
+AND-0483,Cariamanga,minimarket,26,9,53.58,58,53.7,5.0,1575.34,0,minimarket
+AND-0484,Loja,tienda de barrio,28,5,23.28,15,41.3,5.9,351.51,0,barrio
+AND-0485,Loja,tienda de barrio,8,7,17.31,20,39.3,3.8,392.54,0,barrio
+AND-0486,Machala,tienda de barrio,48,8,15.45,23,18.2,7.2,360.07,1,barrio
+AND-0487,Machala,minimarket,5,6,16.1,33,16.5,13.0,283.71,0,barrio
+AND-0488,Macara,minimarket,53,8,23.82,21,31.5,5.5,542.31,1,barrio
+AND-0489,Machala,tienda de barrio,21,12,61.89,65,17.4,22.2,2321.64,0,minimarket
+AND-0490,Saraguro,tienda de barrio,33,10,50.53,54,42.3,11.1,1513.34,1,minimarket
+AND-0491,Machala,tienda de barrio,7,9,52.21,67,8.0,18.2,1284.33,0,minimarket
+AND-0492,Loja,tienda de barrio,39,13,38.96,65,3.3,11.1,1419.47,1,minimarket
+AND-0493,Loja,tienda de barrio,36,10,59.91,70,28.9,3.5,1748.1,0,minimarket
+AND-0494,Saraguro,panaderia,35,6,12.22,31,12.4,7.9,214.12,0,barrio
+AND-0495,Loja,restaurante,7,9,64.89,67,6.9,18.5,1615.49,1,minimarket
+AND-0496,Catamayo,restaurante,16,5,18.52,21,76.6,4.4,253.96,0,barrio
+AND-0497,Zamora,tienda de barrio,32,4,30.43,25,19.5,2.7,399.15,0,barrio
+AND-0498,Loja,tienda de barrio,47,11,43.18,73,5.4,7.9,1538.68,0,minimarket
+AND-0499,Macara,tienda de barrio,15,5,17.6,14,11.1,7.0,323.94,0,barrio
+AND-0500,Loja,minimarket,15,11,26.74,14,15.4,10.8,781.93,1,barrio
+AND-0501,Zamora,minimarket,31,8,71.48,62,28.5,7.8,1814.65,0,minimarket
+AND-0502,Loja,panaderia,83,14,180.18,145,11.2,20.0,5450.13,1,mayorista
+AND-0503,Macara,tienda de barrio,18,17,220.61,130,17.1,2.0,12435.07,1,mayorista
+AND-0504,Cariamanga,minimarket,21,8,18.01,21,23.8,19.1,331.4,0,barrio
+AND-0505,Catamayo,restaurante,19,6,19.15,21,27.2,4.5,298.05,0,barrio
+AND-0506,Loja,tienda de barrio,24,11,47.16,33,18.1,8.3,1573.09,0,minimarket
+AND-0507,Loja,panaderia,49,3,17.65,19,61.5,7.1,142.52,0,barrio
+AND-0508,Catamayo,minimarket,25,9,38.7,58,32.1,2.9,936.24,1,minimarket
+AND-0509,Loja,tienda de barrio,87,4,18.54,20,30.8,8.7,201.9,0,barrio
+AND-0510,Loja,restaurante,28,3,19.87,39,30.0,8.7,190.04,0,barrio
+AND-0511,Macara,panaderia,51,6,17.12,7,42.5,11.1,261.31,1,barrio
+AND-0512,Loja,panaderia,22,6,38.55,50,22.6,6.2,672.6,0,minimarket
+AND-0513,Loja,tienda de barrio,12,4,22.37,5,7.9,3.7,251.91,0,barrio
+AND-0514,Catamayo,tienda de barrio,25,5,19.5,16,26.3,1.4,323.65,0,barrio
+AND-0515,Catamayo,minimarket,35,5,15.34,17,28.7,8.2,248.81,0,barrio
+AND-0516,Saraguro,tienda de barrio,16,7,16.92,16,47.1,1.3,278.5,0,barrio
+AND-0517,Cariamanga,tienda de barrio,47,6,12.94,35,7.2,28.0,238.08,1,barrio
+AND-0518,Cariamanga,tienda de barrio,20,11,43.89,70,8.9,15.4,1258.58,1,minimarket
+AND-0519,Saraguro,tienda de barrio,13,7,15.99,23,20.0,5.9,338.41,0,barrio
+AND-0520,Catamayo,minimarket,78,12,72.07,56,30.6,5.0,2252.24,1,minimarket
+AND-0521,Loja,minimarket,16,10,47.78,72,5.9,10.1,1445.82,0,minimarket
+AND-0522,Macara,tienda de barrio,19,6,20.72,22,7.3,3.2,513.25,0,barrio
+AND-0523,Loja,minimarket,38,7,15.99,12,36.0,27.3,305.54,0,barrio
+AND-0524,Zamora,tienda de barrio,21,10,58.08,39,6.2,7.4,1594.58,0,minimarket
+AND-0525,Cariamanga,tienda de barrio,14,5,17.45,17,9.0,10.9,243.32,0,barrio
+AND-0526,Cariamanga,tienda de barrio,18,5,21.81,31,37.6,7.2,262.79,0,barrio
+AND-0527,Saraguro,tienda de barrio,67,15,186.69,167,30.3,7.8,9838.1,1,mayorista
+AND-0528,Machala,tienda de barrio,36,17,148.58,141,11.3,8.2,7643.24,1,mayorista
+AND-0529,Catamayo,minimarket,39,10,40.58,51,27.9,5.1,1041.38,0,minimarket
+AND-0530,Catamayo,tienda de barrio,30,5,16.01,8,24.1,10.9,201.61,0,barrio
+AND-0531,Machala,minimarket,33,9,41.79,67,17.6,27.1,1012.73,1,minimarket
+AND-0532,Cariamanga,tienda de barrio,20,8,60.19,39,14.1,9.1,1573.55,0,minimarket
+AND-0533,Catamayo,minimarket,28,8,16.25,29,27.1,18.7,311.65,0,barrio
+AND-0534,Loja,minimarket,6,10,92.74,70,6.7,2.3,3187.06,0,minimarket
+AND-0535,Loja,tienda de barrio,43,5,12.28,27,26.8,9.2,175.58,0,barrio
+AND-0536,Zamora,minimarket,20,7,18.82,19,22.5,10.2,336.46,0,barrio
+AND-0537,Loja,panaderia,12,5,14.04,29,23.7,22.8,180.8,1,barrio
+AND-0538,Loja,tienda de barrio,29,4,16.15,24,8.7,8.0,235.78,0,barrio
+AND-0539,Loja,minimarket,23,8,18.57,13,47.9,5.9,363.65,1,barrio
+AND-0540,Machala,panaderia,43,9,32.98,82,11.3,7.4,786.6,1,minimarket
+AND-0541,Saraguro,tienda de barrio,25,15,221.23,136,12.9,15.8,10583.03,1,mayorista
+AND-0542,Saraguro,restaurante,18,10,83.59,69,17.0,13.2,2448.32,1,minimarket
+AND-0543,Machala,tienda de barrio,26,12,49.78,31,30.3,15.1,1523.0,1,minimarket
+AND-0544,Catamayo,panaderia,55,16,222.35,155,23.2,3.2,11950.07,1,mayorista
+AND-0545,Zamora,restaurante,43,4,22.55,40,4.3,4.2,303.67,0,barrio
+AND-0546,Macara,restaurante,35,7,17.36,22,19.3,2.4,377.1,0,barrio
+AND-0547,Saraguro,minimarket,44,5,15.84,29,20.6,5.7,214.61,0,barrio
+AND-0548,Zamora,minimarket,37,9,10.91,29,48.7,2.1,275.29,0,barrio
+AND-0549,Machala,tienda de barrio,15,10,63.33,52,15.2,6.5,1922.24,1,minimarket
+AND-0550,Loja,tienda de barrio,40,2,17.56,29,28.4,7.2,86.38,0,barrio
+AND-0551,Loja,panaderia,47,7,14.41,12,100.2,6.0,351.32,0,barrio
+AND-0552,Zamora,tienda de barrio,49,9,18.51,15,43.1,1.7,619.32,0,barrio
+AND-0553,Catamayo,panaderia,13,9,15.83,36,8.2,8.0,401.74,0,barrio
+AND-0554,Saraguro,tienda de barrio,19,19,186.95,152,33.2,6.4,10886.32,1,mayorista
+AND-0555,Loja,tienda de barrio,18,4,20.57,14,26.9,5.0,282.44,0,barrio
+AND-0556,Zamora,tienda de barrio,22,7,13.41,13,14.8,7.7,352.37,0,barrio
+AND-0557,Macara,minimarket,33,5,22.66,14,33.5,3.7,410.23,1,barrio
+AND-0558,Machala,tienda de barrio,29,6,13.24,31,8.1,12.3,181.19,1,barrio
+AND-0559,Saraguro,tienda de barrio,29,8,47.54,48,11.5,9.4,1055.51,1,minimarket
+AND-0560,Machala,restaurante,11,5,27.48,26,17.2,28.0,392.55,1,barrio
+AND-0561,Saraguro,panaderia,19,5,23.07,31,14.2,18.8,301.05,0,barrio
+AND-0562,Cariamanga,panaderia,51,7,18.39,21,30.9,5.7,476.24,1,barrio
+AND-0563,Macara,tienda de barrio,47,11,44.72,72,18.9,3.3,1800.78,1,minimarket
+AND-0564,Saraguro,tienda de barrio,25,10,48.95,56,13.0,23.2,1202.86,1,minimarket
+AND-0565,Cariamanga,minimarket,40,8,55.89,57,42.6,8.2,1271.92,0,minimarket
+AND-0566,Loja,tienda de barrio,32,10,55.46,48,30.1,10.5,1448.37,1,minimarket
+AND-0567,Catamayo,tienda de barrio,42,9,53.91,72,5.2,16.8,1327.41,1,minimarket
+AND-0568,Macara,restaurante,41,7,17.88,13,5.1,19.3,337.57,0,barrio
+AND-0569,Loja,tienda de barrio,26,8,17.17,26,13.1,8.1,451.97,1,barrio
+AND-0570,Macara,restaurante,36,8,13.11,21,5.9,4.8,275.14,0,barrio
+AND-0571,Loja,tienda de barrio,33,5,16.07,9,38.1,15.3,161.45,1,barrio
+AND-0572,Loja,tienda de barrio,27,6,67.26,53,12.0,1.6,976.69,0,minimarket
+AND-0573,Macara,tienda de barrio,23,3,13.32,39,28.4,10.3,100.72,0,barrio
+AND-0574,Loja,restaurante,62,12,52.75,62,32.9,9.3,1681.46,1,minimarket
+AND-0575,Machala,minimarket,27,9,45.92,48,2.8,18.3,1180.96,1,minimarket
+AND-0576,Machala,panaderia,38,5,18.45,26,12.5,7.1,233.94,1,barrio
+AND-0577,Catamayo,tienda de barrio,59,19,192.79,138,16.6,13.4,8904.35,1,mayorista
+AND-0578,Catamayo,panaderia,36,12,76.12,101,23.9,9.9,2335.97,1,minimarket
+AND-0579,Loja,minimarket,35,10,61.48,63,36.6,5.2,1563.48,1,minimarket
+AND-0580,Zamora,minimarket,27,6,13.49,17,78.9,4.8,221.76,0,barrio
+AND-0581,Loja,panaderia,33,6,20.86,39,57.5,13.5,329.39,0,barrio
+AND-0582,Machala,panaderia,22,6,15.18,5,18.7,28.0,266.66,1,barrio
+AND-0583,Machala,minimarket,93,9,15.85,23,18.5,7.1,366.02,1,barrio
+AND-0584,Loja,tienda de barrio,11,7,19.29,46,53.5,3.2,381.93,0,barrio
+AND-0585,Macara,panaderia,24,17,188.47,139,19.5,11.1,8572.21,1,mayorista
+AND-0586,Catamayo,tienda de barrio,36,12,66.94,39,12.2,4.5,2630.72,1,minimarket
+AND-0587,Saraguro,restaurante,35,4,15.18,17,38.5,10.7,171.2,1,barrio
+AND-0588,Loja,tienda de barrio,22,7,15.71,39,24.8,8.6,365.69,0,barrio
+AND-0589,Macara,tienda de barrio,8,6,15.58,27,5.0,15.0,227.49,0,barrio
+AND-0590,Loja,tienda de barrio,12,2,15.89,12,15.3,4.2,93.2,0,barrio
+AND-0591,Machala,minimarket,30,13,267.45,132,6.1,8.4,9365.49,0,mayorista
+AND-0592,Catamayo,tienda de barrio,7,4,20.67,15,1.1,23.4,192.46,0,barrio
+AND-0593,Cariamanga,panaderia,37,7,26.22,26,62.8,23.2,497.11,1,barrio
+AND-0594,Machala,minimarket,49,10,90.58,76,21.5,4.0,3351.65,1,minimarket
+AND-0595,Macara,tienda de barrio,41,6,14.35,35,15.7,12.0,220.52,0,barrio
+AND-0596,Saraguro,minimarket,45,9,18.28,27,13.0,28.0,433.17,1,barrio
+AND-0597,Catamayo,panaderia,7,8,42.46,44,19.8,21.5,788.17,1,minimarket
+AND-0598,Catamayo,restaurante,23,10,46.35,44,12.9,13.0,1092.72,1,minimarket
+AND-0599,Catamayo,tienda de barrio,14,16,182.82,146,8.4,9.2,7641.39,1,mayorista
+AND-0600,Machala,restaurante,9,9,43.59,44,13.5,9.3,1070.35,0,minimarket
+AND-0601,Loja,tienda de barrio,20,6,14.28,19,50.0,1.2,242.71,0,barrio
+AND-0602,Catamayo,minimarket,59,7,53.28,64,37.9,3.1,1073.53,0,minimarket
+AND-0603,Zamora,panaderia,67,18,160.68,126,13.6,13.5,6639.53,1,mayorista
+AND-0604,Catamayo,tienda de barrio,15,9,66.19,48,67.0,6.6,1605.65,1,minimarket
+AND-0605,Machala,tienda de barrio,28,19,171.61,139,18.5,6.4,10184.08,1,mayorista
+AND-0606,Loja,minimarket,33,10,102.05,66,10.1,4.3,2523.52,1,minimarket
+AND-0607,Loja,tienda de barrio,23,12,49.8,73,25.6,2.8,1693.47,1,minimarket
+AND-0608,Cariamanga,tienda de barrio,51,6,18.29,29,55.4,2.6,338.57,0,barrio
+AND-0609,Saraguro,tienda de barrio,20,10,41.36,61,48.4,9.2,1081.16,1,minimarket
+AND-0610,Machala,panaderia,18,5,26.2,13,10.6,11.3,392.99,1,barrio
+AND-0611,Catamayo,tienda de barrio,16,10,70.36,47,6.9,1.9,1719.42,0,minimarket
+AND-0612,Loja,tienda de barrio,23,11,58.71,54,14.6,6.8,2117.76,0,minimarket
+AND-0613,Loja,restaurante,3,15,156.15,145,28.8,8.6,7125.23,1,mayorista
+AND-0614,Catamayo,panaderia,23,16,219.96,144,34.5,4.9,10434.34,1,mayorista
+AND-0615,Cariamanga,minimarket,29,5,14.06,5,43.9,9.7,235.0,0,barrio
+AND-0616,Loja,minimarket,30,14,75.87,51,22.4,17.0,2853.37,0,minimarket
+AND-0617,Saraguro,tienda de barrio,14,10,65.72,74,22.9,11.6,1738.26,1,minimarket
+AND-0618,Machala,tienda de barrio,29,8,18.38,23,21.8,7.4,512.28,0,barrio
+AND-0619,Catamayo,tienda de barrio,29,6,10.53,5,40.1,9.3,232.17,0,barrio
+AND-0620,Cariamanga,tienda de barrio,29,6,14.5,50,34.9,20.4,219.79,0,barrio
+AND-0621,Loja,tienda de barrio,41,8,63.98,60,10.3,9.4,1458.28,1,minimarket
+AND-0622,Zamora,minimarket,13,5,23.5,27,32.0,9.2,389.51,0,barrio
+AND-0623,Loja,tienda de barrio,23,16,268.04,145,38.3,6.5,12417.48,1,mayorista
+AND-0624,Cariamanga,tienda de barrio,8,9,12.68,18,40.4,3.6,364.75,1,barrio
+AND-0625,Loja,panaderia,39,16,224.4,131,24.8,0.7,11889.22,1,mayorista
+AND-0626,Loja,tienda de barrio,15,8,22.51,47,23.8,7.0,488.64,0,barrio
+AND-0627,Loja,minimarket,45,11,38.19,72,19.2,6.9,1295.55,1,minimarket
+AND-0628,Loja,tienda de barrio,46,9,17.97,32,20.7,7.9,470.07,0,barrio
+AND-0629,Machala,minimarket,24,10,58.42,67,60.3,1.8,1485.81,0,minimarket
+AND-0630,Loja,tienda de barrio,24,14,51.48,48,21.3,4.5,1868.23,1,minimarket
+AND-0631,Machala,tienda de barrio,10,15,139.72,155,11.0,10.9,5533.97,1,mayorista
+AND-0632,Saraguro,panaderia,27,9,51.2,50,25.2,8.1,1511.16,0,minimarket
+AND-0633,Loja,tienda de barrio,41,4,16.75,25,34.0,12.3,216.98,1,barrio
+AND-0634,Catamayo,tienda de barrio,31,10,17.42,5,39.3,28.0,514.07,1,barrio
+AND-0635,Loja,tienda de barrio,55,7,15.9,5,8.3,7.1,343.91,0,barrio
+AND-0636,Zamora,tienda de barrio,21,5,16.33,26,52.3,6.2,252.29,0,barrio
+AND-0637,Loja,tienda de barrio,21,12,54.52,50,33.1,8.9,1965.18,1,minimarket
+AND-0638,Machala,minimarket,15,11,60.62,36,50.4,8.9,2037.11,0,minimarket
+AND-0639,Loja,minimarket,74,13,51.44,66,5.7,10.2,2050.33,1,minimarket
+AND-0640,Loja,minimarket,10,8,50.26,85,41.5,7.0,977.89,0,minimarket
+AND-0641,Loja,panaderia,40,10,56.13,77,7.9,19.5,1405.54,1,minimarket
+AND-0642,Macara,tienda de barrio,42,9,36.04,57,16.0,8.0,825.06,1,minimarket
+AND-0643,Saraguro,restaurante,41,3,19.99,22,33.9,25.9,187.06,1,barrio
+AND-0644,Machala,tienda de barrio,16,8,18.0,33,7.2,7.5,520.19,1,barrio
+AND-0645,Catamayo,tienda de barrio,12,10,55.48,73,12.8,4.5,1233.71,1,minimarket
+AND-0646,Loja,minimarket,24,11,67.94,56,5.6,4.0,2705.53,0,minimarket
+AND-0647,Zamora,minimarket,36,10,11.71,22,33.2,10.6,340.8,0,barrio
+AND-0648,Cariamanga,tienda de barrio,18,5,11.66,26,10.1,5.0,195.67,0,barrio
+AND-0649,Zamora,restaurante,22,9,58.41,67,20.2,11.8,1607.95,1,minimarket
+AND-0650,Catamayo,restaurante,19,6,17.97,20,27.0,3.7,384.52,1,barrio
+AND-0651,Macara,tienda de barrio,28,8,18.69,21,25.0,2.4,456.7,1,barrio
+AND-0652,Loja,minimarket,27,15,189.7,157,23.3,2.3,7086.68,1,mayorista
+AND-0653,Machala,panaderia,60,9,63.66,75,23.3,15.9,1591.69,1,minimarket
+AND-0654,Loja,restaurante,37,8,22.1,28,6.0,2.5,561.72,0,barrio
+AND-0655,Zamora,minimarket,12,11,61.18,81,16.7,14.9,1850.55,1,minimarket
+AND-0656,Loja,tienda de barrio,13,3,17.0,17,23.2,8.8,161.02,1,barrio
+AND-0657,Zamora,minimarket,40,8,34.59,79,21.3,13.4,780.68,0,minimarket
+AND-0658,Machala,tienda de barrio,27,8,21.32,29,18.2,18.9,439.14,1,barrio
+AND-0659,Machala,minimarket,72,11,71.96,99,11.3,4.6,2025.54,1,minimarket
+AND-0660,Saraguro,minimarket,71,5,20.74,8,24.6,10.4,283.82,1,barrio
+AND-0661,Catamayo,minimarket,15,6,14.83,14,28.0,10.6,262.96,0,barrio
+AND-0662,Zamora,tienda de barrio,32,16,243.55,145,14.3,18.5,8416.84,1,mayorista
+AND-0663,Cariamanga,tienda de barrio,13,7,21.75,27,39.5,1.1,410.96,0,barrio
+AND-0664,Cariamanga,minimarket,40,4,25.36,45,53.0,3.8,231.32,0,barrio
+AND-0665,Loja,tienda de barrio,64,5,14.84,14,20.5,4.5,201.88,0,barrio
+AND-0666,Catamayo,tienda de barrio,29,10,52.33,71,10.5,8.5,1774.33,0,minimarket
+AND-0667,Catamayo,tienda de barrio,21,10,64.83,74,7.1,22.4,1523.37,1,minimarket
+AND-0668,Cariamanga,panaderia,34,17,212.67,148,15.8,14.8,11207.86,1,mayorista
+AND-0669,Loja,tienda de barrio,44,4,14.08,10,19.4,5.7,239.33,0,barrio
+AND-0670,Catamayo,minimarket,44,7,19.72,39,6.8,11.1,478.9,0,barrio
+AND-0671,Zamora,tienda de barrio,21,8,20.44,37,15.4,11.8,476.5,0,barrio
+AND-0672,Saraguro,panaderia,18,11,56.07,67,38.1,9.1,1996.35,1,minimarket
+AND-0673,Machala,tienda de barrio,31,16,220.39,142,2.3,13.1,8407.19,1,mayorista
+AND-0674,Loja,tienda de barrio,22,10,51.96,63,21.5,7.0,1236.25,1,minimarket
+AND-0675,Catamayo,tienda de barrio,51,9,76.14,59,12.8,17.4,1925.37,1,minimarket
+AND-0676,Saraguro,tienda de barrio,22,6,14.76,30,19.9,2.7,276.9,1,barrio
+AND-0677,Catamayo,panaderia,28,18,184.55,140,54.9,7.6,11153.52,1,mayorista
+AND-0678,Macara,minimarket,33,6,18.04,12,19.2,18.8,279.77,1,barrio
+AND-0679,Loja,panaderia,11,5,21.84,9,17.1,20.2,309.84,1,barrio
+AND-0680,Saraguro,minimarket,19,5,12.95,13,31.8,12.7,188.62,1,barrio
+AND-0681,Loja,panaderia,70,6,13.49,25,24.8,14.0,225.85,1,barrio
+AND-0682,Cariamanga,restaurante,43,5,11.5,22,21.6,20.2,157.61,0,barrio
+AND-0683,Zamora,minimarket,22,7,18.13,25,25.5,21.2,312.91,1,barrio
+AND-0684,Loja,tienda de barrio,40,7,14.07,28,45.2,8.8,296.04,0,barrio
+AND-0685,Catamayo,tienda de barrio,51,11,50.54,52,36.4,5.0,1677.75,0,minimarket
+AND-0686,Saraguro,minimarket,24,8,20.82,40,16.2,5.8,461.37,1,barrio
+AND-0687,Macara,panaderia,42,8,15.63,19,53.0,17.2,381.97,1,barrio
+AND-0688,Loja,minimarket,39,15,220.96,135,13.4,2.9,11237.88,1,mayorista
+AND-0689,Catamayo,tienda de barrio,13,9,51.49,66,21.5,14.1,1435.87,1,minimarket
+AND-0690,Zamora,minimarket,24,6,20.87,5,23.4,16.5,307.23,0,barrio
+AND-0691,Saraguro,tienda de barrio,61,5,19.98,13,15.6,5.7,296.95,0,barrio
+AND-0692,Macara,tienda de barrio,69,14,180.35,152,49.3,3.4,6640.35,1,mayorista
+AND-0693,Catamayo,panaderia,43,5,17.34,5,15.0,13.7,249.51,1,barrio
+AND-0694,Machala,minimarket,19,5,22.65,35,18.1,2.6,298.92,0,barrio
+AND-0695,Loja,tienda de barrio,5,15,228.98,158,40.1,10.2,11687.88,1,mayorista
+AND-0696,Loja,tienda de barrio,17,5,13.24,18,13.8,12.0,209.74,0,barrio
+AND-0697,Saraguro,minimarket,12,12,63.53,64,6.5,8.8,2566.99,0,minimarket
+AND-0698,Saraguro,tienda de barrio,63,10,43.32,73,22.0,13.3,1413.79,1,minimarket
+AND-0699,Cariamanga,tienda de barrio,8,14,75.04,54,8.4,16.7,2847.3,1,minimarket
+AND-0700,Loja,minimarket,13,6,22.55,32,7.6,4.3,377.7,0,barrio
+AND-0701,Loja,minimarket,30,6,19.19,14,2.4,14.3,409.37,0,barrio
+AND-0702,Macara,tienda de barrio,27,6,18.63,16,2.8,5.8,320.9,1,barrio
+AND-0703,Loja,minimarket,59,6,17.19,12,3.1,11.7,247.78,0,barrio
+AND-0704,Macara,minimarket,37,17,243.81,144,57.7,4.2,13945.33,1,mayorista
+AND-0705,Cariamanga,tienda de barrio,25,9,16.59,36,3.0,8.6,441.29,1,barrio
+AND-0706,Loja,tienda de barrio,52,9,57.93,58,8.3,6.1,1857.72,0,minimarket
+AND-0707,Macara,tienda de barrio,21,11,66.63,45,18.3,11.7,2167.23,1,minimarket
+AND-0708,Machala,tienda de barrio,62,10,48.61,47,30.8,7.7,1411.44,1,minimarket
+AND-0709,Zamora,panaderia,16,3,15.72,27,33.0,8.8,166.69,0,barrio
+AND-0710,Loja,tienda de barrio,3,7,13.84,44,10.5,12.3,226.7,1,barrio
+AND-0711,Saraguro,restaurante,26,18,166.16,145,21.2,19.0,7707.53,1,mayorista
+AND-0712,Machala,tienda de barrio,6,9,36.78,55,17.9,13.3,839.6,0,minimarket
+AND-0713,Cariamanga,minimarket,44,10,64.58,69,20.3,9.0,1406.01,1,minimarket
+AND-0714,Loja,minimarket,29,13,312.65,137,22.4,7.6,13259.8,0,mayorista
+AND-0715,Loja,panaderia,62,8,75.26,55,26.9,2.0,1667.06,0,minimarket
+AND-0716,Macara,restaurante,23,8,12.59,10,12.6,5.7,332.45,0,barrio
+AND-0717,Zamora,tienda de barrio,10,9,64.51,77,15.1,18.6,1701.07,1,minimarket
+AND-0718,Machala,tienda de barrio,35,4,24.61,5,76.6,17.5,298.06,0,barrio
+AND-0719,Machala,restaurante,19,10,49.74,70,13.2,12.8,1337.18,0,minimarket
+AND-0720,Loja,restaurante,41,15,214.74,134,21.5,2.9,8651.79,1,mayorista
+AND-0721,Cariamanga,restaurante,16,5,11.57,17,18.0,3.3,173.36,0,barrio
+AND-0722,Loja,tienda de barrio,56,7,19.09,42,20.9,4.9,443.26,0,barrio
+AND-0723,Loja,tienda de barrio,28,4,14.24,13,40.8,28.0,151.48,0,barrio
+AND-0724,Loja,tienda de barrio,25,15,219.43,132,17.2,2.2,8936.92,0,mayorista
+AND-0725,Machala,panaderia,54,6,12.77,20,7.3,15.2,185.19,1,barrio
+AND-0726,Loja,tienda de barrio,45,8,20.28,27,12.4,7.8,484.82,0,barrio
+AND-0727,Saraguro,tienda de barrio,17,8,22.55,17,17.3,7.5,489.06,0,barrio
+AND-0728,Catamayo,minimarket,44,5,15.15,5,22.9,11.2,215.44,1,barrio
+AND-0729,Loja,tienda de barrio,39,7,14.02,12,10.5,2.9,282.24,0,barrio
+AND-0730,Saraguro,panaderia,26,5,11.2,37,11.5,4.8,155.64,0,barrio
+AND-0731,Loja,tienda de barrio,42,9,16.98,23,23.5,10.4,457.26,0,barrio
+AND-0732,Catamayo,panaderia,56,4,15.84,27,24.1,8.4,197.69,0,barrio
+AND-0733,Saraguro,tienda de barrio,26,8,12.8,19,37.0,15.2,373.44,0,barrio
+AND-0734,Zamora,minimarket,26,5,19.89,14,12.3,6.3,321.27,0,barrio
+AND-0735,Macara,minimarket,25,9,16.3,42,28.8,26.0,487.27,1,barrio
+AND-0736,Zamora,tienda de barrio,17,11,43.41,58,18.0,7.8,1249.28,1,minimarket
+AND-0737,Catamayo,tienda de barrio,26,4,15.93,17,13.7,10.9,148.73,0,barrio
+AND-0738,Loja,panaderia,24,5,22.78,35,18.5,3.5,336.47,1,barrio
+AND-0739,Catamayo,minimarket,23,7,20.55,13,20.5,5.4,472.45,0,barrio
+AND-0740,Machala,tienda de barrio,23,8,17.49,15,6.6,15.3,432.76,0,barrio
+AND-0741,Loja,minimarket,13,6,20.63,22,7.1,8.4,420.63,1,barrio
+AND-0742,Loja,tienda de barrio,47,6,13.94,22,31.5,9.8,173.64,0,barrio
+AND-0743,Machala,tienda de barrio,19,11,55.39,63,14.8,27.7,1922.04,1,minimarket
+AND-0744,Machala,tienda de barrio,57,6,18.59,47,23.1,8.9,337.57,1,barrio
+AND-0745,Loja,tienda de barrio,15,4,16.23,26,30.9,6.5,155.36,0,barrio
+AND-0746,Zamora,tienda de barrio,64,5,19.81,5,18.6,20.6,300.59,0,barrio
+AND-0747,Catamayo,tienda de barrio,22,6,15.16,26,29.1,10.7,267.48,0,barrio
+AND-0748,Saraguro,tienda de barrio,44,8,20.14,22,20.6,14.4,479.79,1,barrio
+AND-0749,Saraguro,tienda de barrio,29,13,62.1,61,21.3,6.8,2685.68,1,minimarket
+AND-0750,Machala,minimarket,12,11,28.95,63,43.0,6.4,985.44,1,minimarket
+AND-0751,Loja,minimarket,12,6,23.39,22,17.1,2.7,344.05,0,barrio
+AND-0752,Zamora,tienda de barrio,18,7,9.21,21,31.8,5.8,185.61,0,barrio
+AND-0753,Loja,tienda de barrio,21,5,15.72,29,5.5,13.1,181.45,0,barrio
+AND-0754,Cariamanga,minimarket,27,6,22.55,15,22.5,20.6,406.64,1,barrio
+AND-0755,Cariamanga,minimarket,33,9,51.29,49,50.4,18.3,1543.93,1,minimarket
+AND-0756,Zamora,panaderia,25,4,13.04,58,80.2,0.7,132.8,0,barrio
+AND-0757,Machala,tienda de barrio,32,7,14.15,13,5.8,2.4,269.8,0,barrio
+AND-0758,Zamora,tienda de barrio,35,16,263.23,141,14.8,1.9,11183.41,1,mayorista
+AND-0759,Macara,tienda de barrio,24,7,11.79,5,8.6,13.2,221.55,0,barrio
+AND-0760,Loja,minimarket,39,7,23.08,23,17.6,11.3,489.15,0,barrio
+AND-0761,Machala,tienda de barrio,44,10,54.34,49,35.4,8.2,1490.42,1,minimarket
+AND-0762,Catamayo,tienda de barrio,35,7,13.85,17,44.1,5.4,310.02,1,barrio
+AND-0763,Catamayo,tienda de barrio,36,6,15.83,35,45.0,6.9,318.58,1,barrio
+AND-0764,Saraguro,minimarket,30,7,14.39,28,5.3,7.0,339.34,0,barrio
+AND-0765,Catamayo,tienda de barrio,50,15,254.09,147,20.1,3.2,9765.43,1,mayorista
+AND-0766,Cariamanga,minimarket,27,7,21.15,5,12.0,27.9,474.76,1,barrio
+AND-0767,Catamayo,tienda de barrio,18,7,12.33,44,16.8,8.0,303.66,0,barrio
+AND-0768,Loja,tienda de barrio,27,5,16.47,8,13.5,3.6,298.12,0,barrio
+AND-0769,Machala,tienda de barrio,12,6,14.89,40,5.6,6.7,255.81,0,barrio
+AND-0770,Machala,restaurante,11,9,73.11,72,44.3,12.1,1706.85,1,minimarket
+AND-0771,Saraguro,tienda de barrio,44,5,13.37,29,10.6,13.2,167.5,1,barrio
+AND-0772,Machala,tienda de barrio,58,8,78.28,50,12.2,4.0,1602.97,0,minimarket
+AND-0773,Catamayo,panaderia,22,12,54.6,62,50.6,7.0,1915.59,1,minimarket
+AND-0774,Catamayo,tienda de barrio,44,12,42.59,54,4.6,20.7,1575.61,0,minimarket
+AND-0775,Machala,tienda de barrio,8,7,15.51,22,26.6,9.2,372.35,1,barrio
+AND-0776,Cariamanga,tienda de barrio,7,13,46.11,57,38.8,11.8,1611.66,0,minimarket
+AND-0777,Zamora,minimarket,50,10,41.55,36,48.0,6.0,1211.63,0,minimarket
+AND-0778,Catamayo,tienda de barrio,35,11,18.38,35,25.4,2.4,592.86,1,barrio
+AND-0779,Catamayo,panaderia,27,10,41.98,59,32.2,8.7,1120.77,0,minimarket
+AND-0780,Loja,panaderia,63,10,34.04,54,38.8,11.4,1074.43,1,minimarket
+AND-0781,Machala,minimarket,25,5,16.56,15,17.8,11.0,249.38,0,barrio
+AND-0782,Loja,tienda de barrio,14,17,141.24,144,9.3,6.5,7153.85,1,mayorista
+AND-0783,Saraguro,panaderia,10,7,15.25,11,53.1,1.0,334.23,0,barrio
+AND-0784,Loja,panaderia,27,10,45.03,33,29.9,9.8,1408.27,0,minimarket
+AND-0785,Cariamanga,panaderia,30,19,173.37,145,20.1,16.3,10021.04,1,mayorista
+AND-0786,Catamayo,tienda de barrio,24,6,27.95,28,5.9,3.0,445.94,0,barrio
+AND-0787,Zamora,minimarket,45,10,55.69,58,1.8,8.6,1815.08,0,minimarket
+AND-0788,Saraguro,minimarket,55,5,19.0,8,26.3,23.3,268.22,0,barrio
+AND-0789,Loja,restaurante,22,11,37.21,61,1.6,21.9,1062.73,1,minimarket
+AND-0790,Loja,tienda de barrio,8,10,47.63,42,20.0,24.4,1334.84,0,minimarket
+AND-0791,Loja,panaderia,32,5,18.87,10,11.0,9.9,284.74,0,barrio
+AND-0792,Macara,minimarket,50,5,14.37,13,13.4,11.4,237.22,1,barrio
+AND-0793,Zamora,panaderia,22,10,21.98,32,45.3,28.0,513.57,1,barrio
+AND-0794,Catamayo,minimarket,36,6,13.82,18,11.1,20.5,272.22,1,barrio
+AND-0795,Saraguro,panaderia,14,4,16.9,17,20.7,8.5,196.76,0,barrio
+AND-0796,Loja,tienda de barrio,32,5,15.82,45,11.2,5.7,217.32,0,barrio
+AND-0797,Machala,tienda de barrio,37,6,18.66,26,24.5,2.9,309.75,0,barrio
+AND-0798,Machala,tienda de barrio,32,7,15.63,26,22.1,12.9,273.87,1,barrio
+AND-0799,Zamora,panaderia,72,11,51.82,56,20.0,7.4,1324.9,1,minimarket
+AND-0800,Loja,tienda de barrio,58,11,52.22,53,38.9,11.0,1802.28,1,minimarket
+AND-0801,Catamayo,minimarket,40,9,46.79,34,4.6,19.0,1514.95,1,minimarket
+AND-0802,Machala,restaurante,48,7,20.03,34,3.4,4.7,334.7,0,barrio
+AND-0803,Loja,restaurante,31,15,221.31,145,6.9,9.3,8486.62,1,mayorista
+AND-0804,Macara,minimarket,26,9,53.94,58,22.2,1.3,1597.83,1,minimarket
+AND-0805,Machala,panaderia,21,5,16.37,20,27.6,10.6,234.15,0,barrio
+AND-0806,Zamora,tienda de barrio,13,4,21.45,31,0.5,10.7,275.09,0,barrio
+AND-0807,Cariamanga,tienda de barrio,59,12,52.22,41,27.3,9.0,1791.0,0,minimarket
+AND-0808,Saraguro,minimarket,73,7,16.83,15,15.1,22.7,299.12,0,barrio
+AND-0809,Machala,panaderia,28,8,18.42,8,54.0,5.1,420.87,0,barrio
+AND-0810,Catamayo,tienda de barrio,28,16,305.01,161,25.9,15.5,10101.18,1,mayorista
+AND-0811,Machala,tienda de barrio,38,7,13.4,33,49.9,5.1,237.77,1,barrio
+AND-0812,Catamayo,minimarket,25,3,21.32,5,43.8,11.5,207.45,0,barrio
+AND-0813,Zamora,tienda de barrio,14,17,138.46,122,15.1,1.6,8194.19,0,mayorista
+AND-0814,Machala,panaderia,12,10,57.69,58,35.5,15.7,1952.37,1,minimarket
+AND-0815,Saraguro,tienda de barrio,72,7,25.45,16,15.0,28.0,505.02,1,barrio
+AND-0816,Loja,panaderia,9,17,233.83,124,58.4,5.5,8705.85,1,mayorista
+AND-0817,Loja,tienda de barrio,33,14,218.03,163,16.2,6.5,8220.89,1,mayorista
+AND-0818,Zamora,panaderia,10,4,15.91,26,28.5,3.0,224.18,0,barrio
+AND-0819,Cariamanga,minimarket,26,9,55.38,66,65.7,15.3,1737.85,0,minimarket
+AND-0820,Loja,tienda de barrio,22,7,17.03,14,29.4,11.4,408.22,0,barrio
+AND-0821,Machala,tienda de barrio,11,7,15.14,31,13.8,8.6,298.13,1,barrio
+AND-0822,Machala,restaurante,38,8,51.6,55,6.2,15.6,982.25,1,minimarket
+AND-0823,Machala,tienda de barrio,14,4,18.8,19,4.7,7.9,217.59,0,barrio
+AND-0824,Cariamanga,minimarket,10,9,46.46,67,27.2,17.6,1171.76,0,minimarket
+AND-0825,Machala,tienda de barrio,41,9,46.06,40,18.5,8.3,1475.66,1,minimarket
+AND-0826,Machala,panaderia,22,4,13.34,41,7.1,25.7,148.59,0,barrio
+AND-0827,Loja,tienda de barrio,17,8,59.94,62,32.9,3.0,1425.05,1,minimarket
+AND-0828,Machala,minimarket,42,5,20.29,37,32.6,8.6,297.11,0,barrio
+AND-0829,Saraguro,minimarket,13,16,220.98,127,18.2,13.4,10597.15,1,mayorista
+AND-0830,Machala,tienda de barrio,8,4,22.26,11,51.4,19.0,268.61,1,barrio
+AND-0831,Zamora,tienda de barrio,53,10,56.07,46,3.8,6.1,1494.98,1,minimarket
+AND-0832,Cariamanga,panaderia,67,12,59.95,63,14.3,11.8,1795.6,1,minimarket
+AND-0833,Loja,minimarket,25,4,19.24,23,29.3,5.8,269.75,0,barrio
+AND-0834,Loja,restaurante,3,10,53.9,54,7.9,18.6,1212.9,1,minimarket
+AND-0835,Loja,panaderia,25,12,48.94,48,35.2,6.2,2127.89,1,minimarket
+AND-0836,Macara,minimarket,43,9,89.52,45,42.4,11.9,1799.13,0,minimarket
+AND-0837,Machala,minimarket,50,9,49.79,59,1.0,6.7,1213.85,1,minimarket
+AND-0838,Loja,restaurante,14,18,181.38,134,52.5,6.5,10835.7,1,mayorista
+AND-0839,Loja,minimarket,23,6,19.8,14,28.1,9.7,343.12,0,barrio
+AND-0840,Macara,tienda de barrio,31,8,19.03,41,12.9,22.6,351.42,1,barrio
+AND-0841,Loja,panaderia,42,7,13.21,21,5.1,13.4,278.11,0,barrio
+AND-0842,Loja,restaurante,40,9,70.41,75,38.4,10.4,1840.99,0,minimarket
+AND-0843,Loja,tienda de barrio,36,7,17.63,16,6.7,9.1,347.38,0,barrio
+AND-0844,Cariamanga,tienda de barrio,50,7,14.1,25,28.0,4.0,268.83,0,barrio
+AND-0845,Cariamanga,minimarket,26,8,23.38,21,7.0,2.4,553.44,0,barrio
+AND-0846,Machala,panaderia,59,15,240.99,120,19.6,5.6,9837.87,1,mayorista
+AND-0847,Loja,tienda de barrio,19,6,13.63,39,37.3,17.4,314.15,0,barrio
+AND-0848,Loja,panaderia,40,10,81.31,58,13.1,4.7,2321.62,1,minimarket
+AND-0849,Zamora,minimarket,21,7,20.81,31,52.3,8.4,402.83,0,barrio
+AND-0850,Machala,tienda de barrio,25,14,209.53,131,29.8,11.6,7835.99,1,mayorista
+AND-0851,Catamayo,minimarket,28,8,25.54,20,7.9,11.9,736.9,0,barrio
+AND-0852,Machala,tienda de barrio,20,7,18.64,12,5.5,13.4,300.02,1,barrio
+AND-0853,Zamora,panaderia,51,8,54.66,75,10.0,7.2,1336.53,0,minimarket
+AND-0854,Machala,tienda de barrio,22,18,181.61,144,18.9,9.7,9151.9,1,mayorista
+AND-0855,Catamayo,panaderia,27,10,20.46,26,55.6,6.1,498.14,1,barrio
+AND-0856,Loja,tienda de barrio,37,8,19.99,38,62.7,8.4,417.37,0,barrio
+AND-0857,Loja,restaurante,89,12,55.18,74,12.6,5.6,2025.46,1,minimarket
+AND-0858,Zamora,panaderia,38,16,176.5,149,12.3,11.9,7224.99,0,mayorista
+AND-0859,Machala,tienda de barrio,28,3,18.52,5,33.4,13.0,163.78,0,barrio
+AND-0860,Catamayo,restaurante,7,3,17.73,14,33.2,13.0,189.8,0,barrio
+AND-0861,Loja,tienda de barrio,25,10,41.02,48,46.8,3.5,1241.26,0,minimarket
+AND-0862,Loja,minimarket,18,9,39.79,69,47.7,8.7,859.6,0,minimarket
+AND-0863,Cariamanga,restaurante,23,9,62.28,62,9.4,5.3,1475.57,0,minimarket
+AND-0864,Machala,restaurante,21,10,31.03,43,4.4,5.1,879.4,0,minimarket
+AND-0865,Catamayo,minimarket,37,7,18.83,20,30.1,4.1,371.77,1,barrio
+AND-0866,Cariamanga,restaurante,25,14,189.03,122,23.1,12.8,7699.06,0,mayorista
+AND-0867,Saraguro,tienda de barrio,16,9,73.34,59,2.3,15.3,1940.91,0,minimarket
+AND-0868,Machala,tienda de barrio,44,12,49.34,40,4.3,4.9,2182.44,1,minimarket
+AND-0869,Zamora,tienda de barrio,12,4,20.81,28,29.1,5.5,244.32,0,barrio
+AND-0870,Loja,tienda de barrio,28,7,16.49,27,17.6,20.5,274.61,0,barrio
+AND-0871,Macara,minimarket,25,9,56.39,83,29.5,2.2,1753.95,0,minimarket
+AND-0872,Zamora,tienda de barrio,33,7,21.17,32,7.4,5.2,513.42,1,barrio
+AND-0873,Machala,minimarket,50,18,189.68,135,31.1,8.9,10195.58,1,mayorista
+AND-0874,Cariamanga,tienda de barrio,96,7,22.41,32,25.2,8.9,440.17,0,barrio
+AND-0875,Loja,tienda de barrio,28,11,44.2,43,32.7,28.0,1411.23,1,minimarket
+AND-0876,Saraguro,panaderia,18,14,224.06,128,13.4,6.9,8912.82,1,mayorista
+AND-0877,Cariamanga,tienda de barrio,17,8,22.05,26,11.1,6.9,394.35,0,barrio
+AND-0878,Loja,minimarket,17,5,20.81,5,5.1,12.7,319.47,1,barrio
+AND-0879,Machala,panaderia,33,10,83.84,60,15.3,10.3,2712.64,0,minimarket
+AND-0880,Loja,minimarket,6,10,46.5,48,41.2,1.5,1672.72,1,minimarket
+AND-0881,Machala,restaurante,12,7,13.29,23,49.1,6.7,247.26,0,barrio
+AND-0882,Catamayo,restaurante,33,11,44.19,47,6.8,9.8,1445.18,0,minimarket
+AND-0883,Loja,tienda de barrio,46,15,242.84,145,18.9,20.6,10391.4,1,mayorista
+AND-0884,Saraguro,minimarket,46,4,20.08,22,56.2,5.3,238.68,0,barrio
+AND-0885,Cariamanga,tienda de barrio,29,7,18.41,39,61.3,6.5,382.62,0,barrio
+AND-0886,Machala,tienda de barrio,42,6,14.06,22,14.8,14.8,239.83,1,barrio
+AND-0887,Saraguro,minimarket,50,8,21.31,13,43.7,3.1,519.45,0,barrio
+AND-0888,Loja,minimarket,22,6,13.75,19,38.7,10.0,262.04,0,barrio
+AND-0889,Machala,panaderia,48,4,23.23,6,36.6,3.8,321.91,0,barrio
+AND-0890,Cariamanga,minimarket,9,12,103.13,65,3.7,13.8,3186.41,1,minimarket
+AND-0891,Loja,panaderia,12,5,19.51,29,12.0,3.5,282.32,0,barrio
+AND-0892,Machala,minimarket,22,17,238.74,170,17.3,10.8,11046.13,1,mayorista
+AND-0893,Loja,tienda de barrio,9,5,16.15,15,16.9,2.2,223.17,0,barrio
+AND-0894,Loja,tienda de barrio,38,9,12.09,19,18.7,2.4,262.13,1,barrio
+AND-0895,Saraguro,minimarket,20,9,48.17,53,65.7,19.0,1209.35,1,minimarket
+AND-0896,Cariamanga,minimarket,25,15,165.12,143,15.2,3.9,7789.51,1,mayorista
+AND-0897,Saraguro,tienda de barrio,26,6,13.09,27,26.1,8.9,223.01,0,barrio
+AND-0898,Machala,tienda de barrio,22,4,26.29,21,25.4,11.5,301.18,0,barrio
+AND-0899,Loja,tienda de barrio,17,7,19.11,35,18.9,10.7,406.31,0,barrio
+AND-0900,Machala,minimarket,37,9,19.57,15,7.2,7.2,617.2,1,barrio
+AND-0901,Loja,tienda de barrio,19,5,16.82,34,20.9,7.3,232.19,0,barrio
+AND-0902,Loja,tienda de barrio,26,7,17.33,28,2.2,18.6,290.16,0,barrio
+AND-0903,Loja,tienda de barrio,33,2,22.26,22,28.0,24.0,119.81,0,barrio
+AND-0904,Loja,tienda de barrio,50,6,17.87,18,1.7,8.2,397.94,1,barrio
+AND-0905,Catamayo,tienda de barrio,48,15,236.01,169,26.2,4.9,8960.61,1,mayorista
+AND-0906,Machala,restaurante,21,9,52.68,50,11.5,10.0,1488.27,1,minimarket
+AND-0907,Zamora,tienda de barrio,16,8,16.69,26,8.2,2.8,460.62,0,barrio
+AND-0908,Macara,tienda de barrio,56,5,13.21,13,33.7,7.4,141.55,0,barrio
+AND-0909,Loja,minimarket,19,6,11.65,43,13.8,17.6,206.21,0,barrio
+AND-0910,Machala,minimarket,36,5,16.99,33,20.1,6.6,268.65,1,barrio
+AND-0911,Catamayo,tienda de barrio,8,7,55.69,52,3.8,24.8,1021.8,1,minimarket
+AND-0912,Macara,tienda de barrio,6,14,158.25,146,51.6,11.3,5845.19,0,mayorista
+AND-0913,Macara,restaurante,28,18,208.41,143,21.6,17.1,9736.85,1,mayorista
+AND-0914,Loja,restaurante,24,13,212.5,134,21.6,11.3,7595.84,1,mayorista
+AND-0915,Saraguro,tienda de barrio,41,15,130.68,149,28.5,10.6,5423.62,1,mayorista
+AND-0916,Machala,minimarket,17,15,171.71,145,0.8,1.9,7196.38,1,mayorista
+AND-0917,Loja,tienda de barrio,32,9,19.69,25,55.1,8.3,492.12,0,barrio
+AND-0918,Macara,tienda de barrio,40,7,19.6,21,14.8,11.6,459.08,0,barrio
+AND-0919,Machala,tienda de barrio,18,5,13.97,27,52.9,22.1,163.74,0,barrio
+AND-0920,Catamayo,panaderia,22,12,56.95,63,14.4,5.4,1599.31,1,minimarket
+AND-0921,Catamayo,tienda de barrio,13,5,22.54,23,11.8,10.4,379.71,0,barrio
+AND-0922,Catamayo,tienda de barrio,42,12,65.25,52,27.1,17.3,2138.64,1,minimarket
+AND-0923,Zamora,tienda de barrio,37,8,53.86,80,74.5,9.3,1185.06,1,minimarket
+AND-0924,Catamayo,tienda de barrio,38,8,16.24,9,43.7,23.0,350.18,0,barrio
+AND-0925,Saraguro,tienda de barrio,24,5,15.67,27,29.3,5.9,236.05,1,barrio
+AND-0926,Loja,minimarket,37,4,19.95,18,26.8,2.3,221.66,0,barrio
+AND-0927,Machala,minimarket,3,6,18.79,43,20.8,10.0,347.32,0,barrio
+AND-0928,Machala,tienda de barrio,25,10,63.17,49,51.3,5.5,1636.89,1,minimarket
+AND-0929,Cariamanga,tienda de barrio,61,9,56.62,51,34.3,4.6,1443.91,1,minimarket
+AND-0930,Machala,panaderia,27,11,65.86,48,5.0,7.4,1583.28,1,minimarket
+AND-0931,Macara,tienda de barrio,47,5,18.38,26,8.2,7.9,311.33,1,barrio
+AND-0932,Machala,tienda de barrio,24,7,21.39,6,30.0,17.6,409.31,0,barrio
+AND-0933,Loja,panaderia,54,7,21.8,16,6.9,4.4,491.02,1,barrio
+AND-0934,Loja,minimarket,16,10,46.08,34,21.5,4.4,1445.87,0,minimarket
+AND-0935,Machala,tienda de barrio,34,9,36.95,63,36.4,24.6,970.18,0,minimarket
+AND-0936,Catamayo,tienda de barrio,18,6,25.28,16,27.2,3.0,449.34,1,barrio
+AND-0937,Catamayo,tienda de barrio,31,17,222.2,122,5.9,12.9,11327.45,1,mayorista
+AND-0938,Zamora,tienda de barrio,19,9,12.34,35,8.7,3.0,290.65,1,barrio
+AND-0939,Cariamanga,panaderia,27,18,179.48,124,27.9,12.9,7910.18,1,mayorista
+AND-0940,Catamayo,minimarket,21,8,21.33,32,69.2,6.5,492.6,0,barrio
+AND-0941,Catamayo,tienda de barrio,39,11,16.93,14,18.2,6.9,497.86,1,barrio
+AND-0942,Catamayo,tienda de barrio,35,11,49.14,79,37.2,6.6,1902.22,1,minimarket
+AND-0943,Loja,tienda de barrio,18,7,24.5,31,27.4,10.9,517.57,0,barrio
+AND-0944,Loja,tienda de barrio,18,7,14.3,10,11.4,2.6,270.86,0,barrio
+AND-0945,Saraguro,minimarket,16,4,15.1,11,37.5,5.4,171.28,0,barrio
+AND-0946,Zamora,tienda de barrio,14,5,18.86,29,3.7,2.2,285.4,0,barrio
+AND-0947,Catamayo,restaurante,40,9,59.93,57,35.7,3.7,1581.04,0,minimarket
+AND-0948,Catamayo,minimarket,15,11,61.35,58,28.6,4.5,2061.05,1,minimarket
+AND-0949,Cariamanga,restaurante,33,16,256.62,155,12.3,6.9,12098.36,1,mayorista
+AND-0950,Loja,panaderia,20,6,18.8,13,7.5,26.1,254.08,1,barrio
+AND-0951,Catamayo,restaurante,46,8,20.05,23,13.3,3.0,359.62,0,barrio
+AND-0952,Loja,restaurante,69,7,17.0,33,10.6,22.5,310.65,1,barrio
+AND-0953,Cariamanga,tienda de barrio,3,6,18.25,32,15.9,11.9,337.16,1,barrio
+AND-0954,Loja,tienda de barrio,16,5,18.43,20,14.5,16.3,247.2,0,barrio
+AND-0955,Catamayo,tienda de barrio,20,18,220.18,137,12.3,9.1,13474.52,1,mayorista
+AND-0956,Cariamanga,minimarket,24,17,248.9,119,3.5,19.4,11675.36,1,mayorista
+AND-0957,Zamora,minimarket,23,7,62.14,47,6.5,15.8,1462.14,0,minimarket
+AND-0958,Macara,tienda de barrio,12,5,18.18,26,41.7,6.5,308.83,0,barrio
+AND-0959,Machala,panaderia,70,6,15.06,20,12.6,1.2,309.34,0,barrio
+AND-0960,Macara,panaderia,24,7,18.27,23,16.2,1.3,326.46,0,barrio
+AND-0961,Catamayo,minimarket,35,7,17.89,34,13.8,8.3,364.51,0,barrio
+AND-0962,Loja,tienda de barrio,36,6,18.78,8,52.1,6.8,385.92,0,barrio
+AND-0963,Loja,tienda de barrio,10,7,29.25,19,10.4,10.2,611.42,0,barrio
+AND-0964,Loja,tienda de barrio,22,6,16.04,24,9.7,28.0,276.88,1,barrio
+AND-0965,Loja,tienda de barrio,40,15,230.44,132,29.1,15.3,8148.42,1,mayorista
+AND-0966,Catamayo,minimarket,56,6,22.77,39,22.8,4.3,517.28,1,barrio
+AND-0967,Macara,tienda de barrio,22,16,214.58,151,29.7,5.0,9114.18,1,mayorista
+AND-0968,Macara,tienda de barrio,11,6,30.11,25,28.3,9.6,402.76,1,barrio
+AND-0969,Loja,tienda de barrio,19,7,50.61,82,38.2,20.0,937.28,0,minimarket
+AND-0970,Saraguro,minimarket,22,5,19.33,5,5.7,9.4,203.31,0,barrio
+AND-0971,Loja,tienda de barrio,21,6,15.1,22,27.1,21.6,216.43,0,barrio
+AND-0972,Saraguro,restaurante,16,6,16.66,26,9.8,2.5,414.19,0,barrio
+AND-0973,Saraguro,tienda de barrio,10,6,19.01,11,2.4,6.8,317.17,0,barrio
+AND-0974,Loja,restaurante,13,17,252.98,144,28.2,21.0,9850.78,0,mayorista
+AND-0975,Loja,tienda de barrio,19,4,19.31,9,27.0,5.7,227.39,0,barrio
+AND-0976,Machala,tienda de barrio,40,7,72.55,68,19.5,9.9,1304.09,1,minimarket
+AND-0977,Saraguro,restaurante,49,5,17.63,35,38.7,19.4,273.83,1,barrio
+AND-0978,Cariamanga,minimarket,29,7,16.73,25,9.9,4.6,307.43,0,barrio
+AND-0979,Loja,minimarket,13,9,32.63,5,31.6,8.2,883.79,1,barrio
+AND-0980,Loja,minimarket,20,7,19.63,10,17.4,3.8,349.93,0,barrio
+AND-0981,Catamayo,tienda de barrio,6,14,179.26,147,18.4,9.8,10157.42,1,mayorista
+AND-0982,Machala,panaderia,56,10,47.21,60,2.8,6.0,1477.23,1,minimarket
+AND-0983,Loja,tienda de barrio,18,10,44.7,28,39.0,15.1,1239.45,0,minimarket
+AND-0984,Loja,panaderia,33,6,22.12,37,26.3,10.2,368.24,0,barrio
+AND-0985,Machala,restaurante,47,7,16.61,24,30.7,6.5,316.47,0,barrio
+AND-0986,Saraguro,panaderia,65,15,215.97,130,8.7,6.2,8593.39,1,mayorista
+AND-0987,Loja,panaderia,42,6,17.75,34,24.1,2.6,285.49,1,barrio
+AND-0988,Cariamanga,minimarket,21,7,21.14,14,17.3,15.1,520.11,0,barrio
+AND-0989,Saraguro,minimarket,36,7,14.94,14,27.3,9.4,281.43,0,barrio
+AND-0990,Machala,tienda de barrio,64,9,43.41,64,23.3,7.3,863.7,1,minimarket
+AND-0991,Loja,panaderia,18,9,57.78,81,58.9,10.9,1284.44,0,minimarket
+AND-0992,Zamora,minimarket,10,6,62.77,79,47.1,4.9,1250.66,0,minimarket
+AND-0993,Loja,tienda de barrio,16,9,59.17,64,15.8,8.2,1497.28,0,minimarket
+AND-0994,Zamora,panaderia,35,5,15.06,28,28.2,13.8,210.21,0,barrio
+AND-0995,Zamora,tienda de barrio,21,14,243.75,149,14.7,9.7,11474.32,1,mayorista
+AND-0996,Zamora,panaderia,26,6,15.28,7,38.0,6.0,242.87,0,barrio
+AND-0997,Machala,panaderia,38,10,49.04,68,17.9,10.2,1534.6,1,minimarket
+AND-0998,Macara,tienda de barrio,15,2,14.62,13,13.1,13.8,76.16,0,barrio
+AND-0999,Loja,tienda de barrio,25,16,279.6,144,23.8,5.1,14180.38,1,mayorista
+AND-1000,Loja,minimarket,19,5,20.69,19,44.7,7.4,286.57,0,barrio
+AND-1001,Catamayo,tienda de barrio,62,7,20.56,28,40.0,9.2,403.61,0,barrio
+AND-1002,Saraguro,restaurante,42,4,23.68,23,13.8,1.4,314.43,0,barrio
+AND-1003,Loja,tienda de barrio,21,6,33.42,5,55.5,6.4,646.68,1,barrio
+AND-1004,Macara,tienda de barrio,21,6,12.36,24,9.1,16.2,204.18,1,barrio
+AND-1005,Macara,tienda de barrio,66,10,46.75,68,11.8,1.4,1311.99,1,minimarket
+AND-1006,Machala,panaderia,63,6,15.72,27,36.9,4.6,342.18,0,barrio
+AND-1007,Catamayo,minimarket,35,16,174.15,139,2.4,4.8,8858.18,1,mayorista
+AND-1008,Zamora,panaderia,26,4,14.2,42,20.2,4.9,158.9,0,barrio
+AND-1009,Macara,restaurante,12,8,51.49,64,15.7,4.1,1117.27,0,minimarket
+AND-1010,Machala,minimarket,16,5,13.77,27,57.7,6.6,230.0,0,barrio
+AND-1011,Zamora,tienda de barrio,11,10,59.21,73,7.7,21.1,1656.82,0,minimarket
+AND-1012,Loja,tienda de barrio,48,9,55.63,64,8.5,2.4,1456.84,0,minimarket
+AND-1013,Loja,panaderia,12,7,20.01,11,63.0,3.0,421.62,0,barrio
+AND-1014,Machala,tienda de barrio,21,16,234.82,111,15.9,5.1,11546.34,1,mayorista
+AND-1015,Macara,restaurante,7,4,20.55,16,43.5,20.9,225.11,0,barrio
+AND-1016,Zamora,panaderia,9,6,16.58,31,13.9,10.0,335.57,1,barrio
+AND-1017,Zamora,minimarket,39,10,87.71,56,11.4,9.6,2984.91,1,minimarket
+AND-1018,Macara,minimarket,32,11,57.91,70,45.0,16.4,1918.67,0,minimarket
+AND-1019,Zamora,restaurante,27,9,11.95,24,73.1,5.2,378.07,0,barrio
+AND-1020,Machala,panaderia,21,5,14.44,37,47.3,6.8,211.17,0,barrio
+AND-1021,Machala,minimarket,9,16,143.19,136,13.2,1.5,7475.08,1,mayorista
+AND-1022,Catamayo,tienda de barrio,19,11,55.21,66,19.5,7.2,2018.58,0,minimarket
+AND-1023,Loja,tienda de barrio,24,16,204.45,146,8.9,7.7,10871.9,1,mayorista
+AND-1024,Loja,tienda de barrio,37,5,16.24,40,10.3,19.5,253.83,1,barrio
+AND-1025,Catamayo,restaurante,46,8,85.6,40,9.8,4.6,2190.63,0,minimarket
+AND-1026,Zamora,minimarket,40,5,20.31,16,14.2,23.1,358.0,0,barrio
+AND-1027,Zamora,panaderia,32,14,246.37,150,21.9,28.0,8607.59,0,mayorista
+AND-1028,Catamayo,tienda de barrio,27,3,14.67,41,20.1,7.2,125.81,0,barrio
+AND-1029,Loja,panaderia,30,9,44.15,63,33.3,1.7,1151.69,1,minimarket
+AND-1030,Saraguro,tienda de barrio,18,4,18.15,18,22.8,8.3,201.0,0,barrio
+AND-1031,Zamora,panaderia,28,11,57.13,69,31.1,12.2,1387.47,1,minimarket
+AND-1032,Cariamanga,tienda de barrio,24,11,36.56,70,34.6,23.4,1312.76,1,minimarket
+AND-1033,Loja,restaurante,81,5,17.3,18,13.4,14.4,214.52,1,barrio
+AND-1034,Catamayo,minimarket,30,16,210.65,144,17.6,20.5,9521.87,1,mayorista
+AND-1035,Saraguro,tienda de barrio,6,3,17.17,36,123.6,3.8,126.57,0,barrio
+AND-1036,Saraguro,tienda de barrio,20,9,45.99,83,12.5,2.4,1333.66,0,minimarket
+AND-1037,Zamora,tienda de barrio,22,7,15.99,31,32.3,4.2,298.3,0,barrio
+AND-1038,Machala,tienda de barrio,43,7,17.31,23,6.1,14.9,295.63,1,barrio
+AND-1039,Loja,tienda de barrio,32,5,18.36,21,35.3,18.1,262.78,1,barrio
+AND-1040,Loja,tienda de barrio,31,8,20.56,29,10.8,19.3,417.04,0,barrio
+AND-1041,Catamayo,tienda de barrio,53,4,22.83,21,20.7,15.0,239.59,0,barrio
+AND-1042,Loja,tienda de barrio,63,8,51.55,62,5.1,12.0,1206.75,1,minimarket
+AND-1043,Catamayo,minimarket,39,11,49.75,47,19.1,18.5,1692.06,1,minimarket
+AND-1044,Loja,tienda de barrio,21,13,60.56,76,19.4,6.7,2068.74,0,minimarket
+AND-1045,Loja,tienda de barrio,22,7,20.59,8,17.1,21.4,348.83,0,barrio
+AND-1046,Zamora,panaderia,2,6,16.36,17,27.5,8.0,286.29,0,barrio
+AND-1047,Loja,tienda de barrio,49,2,21.42,23,42.4,15.2,129.79,0,barrio
+AND-1048,Zamora,minimarket,21,7,68.23,84,8.5,11.2,1658.27,0,minimarket
+AND-1049,Loja,restaurante,26,10,73.08,55,17.5,7.9,1849.41,1,minimarket
+AND-1050,Loja,panaderia,20,5,26.62,14,3.2,6.0,374.29,1,barrio
+AND-1051,Loja,minimarket,13,8,45.45,53,22.6,9.7,1223.53,0,minimarket
+AND-1052,Loja,minimarket,77,6,18.06,42,7.9,10.9,402.52,1,barrio
+AND-1053,Catamayo,panaderia,26,6,18.04,5,20.0,8.8,275.73,1,barrio
+AND-1054,Zamora,panaderia,57,8,17.62,10,23.3,4.7,377.21,0,barrio
+AND-1055,Machala,tienda de barrio,22,6,15.6,55,3.9,7.6,286.44,0,barrio
+AND-1056,Loja,minimarket,18,12,39.67,67,25.9,4.3,1302.88,0,minimarket
+AND-1057,Loja,panaderia,37,16,214.33,127,41.0,1.5,9267.16,1,mayorista
+AND-1058,Loja,panaderia,46,6,15.2,21,30.3,10.1,271.46,1,barrio
+AND-1059,Zamora,tienda de barrio,48,8,18.34,23,8.7,28.0,480.4,1,barrio
+AND-1060,Loja,tienda de barrio,24,8,46.18,70,19.0,10.4,897.44,0,minimarket
+AND-1061,Loja,tienda de barrio,39,21,164.87,162,20.7,5.2,12368.06,1,mayorista
+AND-1062,Machala,tienda de barrio,19,11,57.91,65,17.7,5.2,1737.97,0,minimarket
+AND-1063,Machala,minimarket,28,7,18.61,16,5.8,21.1,375.6,1,barrio
+AND-1064,Macara,tienda de barrio,22,11,62.48,69,10.0,8.6,2451.68,0,minimarket
+AND-1065,Loja,tienda de barrio,20,9,29.12,14,16.5,9.4,790.55,0,barrio
+AND-1066,Catamayo,tienda de barrio,28,17,223.21,128,23.0,5.3,10728.61,1,mayorista
+AND-1067,Loja,panaderia,13,3,20.03,5,12.4,3.0,195.63,0,barrio
+AND-1068,Macara,panaderia,44,12,43.39,41,2.7,19.9,1410.37,1,minimarket
+AND-1069,Zamora,panaderia,21,5,13.56,11,13.0,5.0,213.48,1,barrio
+AND-1070,Loja,restaurante,43,6,25.5,8,58.9,3.1,441.62,1,barrio
+AND-1071,Machala,restaurante,15,14,171.39,144,26.0,7.3,7825.03,0,mayorista
+AND-1072,Catamayo,tienda de barrio,20,11,43.71,46,22.5,10.2,1156.11,1,minimarket
+AND-1073,Zamora,tienda de barrio,13,5,17.85,5,9.8,10.5,225.22,1,barrio
+AND-1074,Loja,panaderia,13,16,205.87,127,13.6,11.0,7879.79,0,mayorista
+AND-1075,Catamayo,minimarket,16,10,45.1,54,2.5,7.6,1303.85,1,minimarket
+AND-1076,Loja,tienda de barrio,15,9,16.83,15,9.2,11.5,356.0,0,barrio
+AND-1077,Macara,restaurante,13,9,23.59,40,25.1,4.8,571.4,0,barrio
+AND-1078,Loja,tienda de barrio,27,6,15.08,15,22.7,16.6,220.04,0,barrio
+AND-1079,Loja,restaurante,37,10,40.48,71,11.4,20.4,1356.49,1,minimarket
+AND-1080,Zamora,minimarket,38,5,22.15,22,17.7,9.2,281.77,0,barrio
+AND-1081,Macara,tienda de barrio,8,8,20.06,21,20.1,15.7,382.7,0,barrio
+AND-1082,Cariamanga,panaderia,22,15,183.2,130,11.9,10.0,8187.01,1,mayorista
+AND-1083,Macara,panaderia,21,15,148.27,139,27.1,10.0,7988.54,1,mayorista
+AND-1084,Cariamanga,minimarket,54,12,46.69,51,22.3,16.1,1553.14,0,minimarket
+AND-1085,Cariamanga,minimarket,23,15,207.49,142,14.0,2.6,9197.27,1,mayorista
+AND-1086,Catamayo,tienda de barrio,25,10,71.08,57,6.2,21.6,2312.47,1,minimarket
+AND-1087,Loja,tienda de barrio,10,7,43.78,49,13.1,11.0,986.97,0,minimarket
+AND-1088,Catamayo,tienda de barrio,16,11,53.99,72,12.4,3.3,1859.08,1,minimarket
+AND-1089,Loja,tienda de barrio,10,9,20.88,27,11.4,3.9,514.82,0,barrio
+AND-1090,Catamayo,tienda de barrio,28,7,10.66,17,4.0,7.7,230.5,1,barrio
+AND-1091,Catamayo,minimarket,55,8,22.6,24,48.7,7.0,442.22,1,barrio
+AND-1092,Loja,tienda de barrio,16,9,42.4,59,47.1,16.1,990.28,0,minimarket
+AND-1093,Zamora,minimarket,23,6,19.36,12,17.2,11.2,401.67,0,barrio
+AND-1094,Macara,tienda de barrio,15,4,19.0,23,22.9,9.3,260.39,1,barrio
+AND-1095,Saraguro,tienda de barrio,18,10,69.82,53,26.8,3.3,2189.04,0,minimarket
+AND-1096,Machala,restaurante,28,7,20.32,11,17.4,2.6,328.74,0,barrio
+AND-1097,Loja,restaurante,69,6,10.67,5,24.1,5.3,160.8,1,barrio
+AND-1098,Loja,panaderia,53,8,46.28,56,29.6,4.9,997.65,0,minimarket
+AND-1099,Loja,tienda de barrio,62,8,56.7,67,21.7,4.4,1308.24,1,minimarket
+AND-1100,Saraguro,minimarket,43,4,17.24,14,33.3,10.5,168.74,0,barrio
+AND-1101,Loja,tienda de barrio,23,7,19.99,52,11.1,7.8,394.36,1,barrio
+AND-1102,Machala,minimarket,21,9,21.41,33,19.0,22.6,664.15,1,barrio
+AND-1103,Loja,restaurante,16,12,62.88,76,96.8,0.9,2376.51,1,minimarket
+AND-1104,Saraguro,tienda de barrio,4,7,52.47,70,38.8,1.1,1128.87,0,minimarket
+AND-1105,Saraguro,restaurante,23,8,11.99,44,22.1,3.2,249.0,0,barrio
+AND-1106,Loja,minimarket,55,11,49.76,51,8.5,4.0,1306.55,1,minimarket
+AND-1107,Macara,tienda de barrio,55,4,19.73,5,19.7,22.3,184.51,1,barrio
+AND-1108,Macara,tienda de barrio,82,6,14.16,17,37.1,11.3,195.98,0,barrio
+AND-1109,Zamora,panaderia,29,18,241.29,147,31.9,7.4,12782.9,1,mayorista
+AND-1110,Cariamanga,tienda de barrio,12,7,21.98,24,3.0,9.2,468.03,0,barrio
+AND-1111,Catamayo,tienda de barrio,35,4,18.51,25,4.2,15.2,184.47,0,barrio
+AND-1112,Catamayo,tienda de barrio,69,7,9.17,38,4.4,8.1,190.19,0,barrio
+AND-1113,Macara,restaurante,59,7,41.52,65,27.1,15.8,991.26,1,minimarket
+AND-1114,Catamayo,tienda de barrio,20,16,318.01,150,4.5,7.8,19097.74,1,mayorista
+AND-1115,Catamayo,restaurante,13,18,186.21,129,8.1,9.4,10712.74,1,mayorista
+AND-1116,Loja,minimarket,12,6,11.63,9,16.9,13.4,194.09,1,barrio
+AND-1117,Macara,tienda de barrio,17,5,23.62,41,41.3,8.4,377.38,0,barrio
+AND-1118,Loja,tienda de barrio,19,11,55.16,61,28.1,1.3,2159.15,0,minimarket
+AND-1119,Machala,panaderia,22,8,22.95,15,15.4,7.0,412.87,1,barrio
+AND-1120,Loja,tienda de barrio,38,18,223.19,133,34.0,4.1,14382.7,1,mayorista
+AND-1121,Catamayo,tienda de barrio,21,11,60.84,52,70.4,4.5,1838.12,1,minimarket
+AND-1122,Loja,tienda de barrio,27,8,19.5,13,19.9,5.8,426.82,0,barrio
+AND-1123,Loja,panaderia,9,11,64.12,45,5.9,7.9,1959.15,1,minimarket
+AND-1124,Loja,minimarket,16,6,29.71,5,8.4,13.6,528.34,1,barrio
+AND-1125,Macara,tienda de barrio,16,6,22.29,20,8.3,3.2,342.98,0,barrio
+AND-1126,Loja,tienda de barrio,8,10,38.85,53,10.2,11.2,1074.75,0,minimarket
+AND-1127,Loja,tienda de barrio,21,4,19.86,35,14.5,9.9,245.45,0,barrio
+AND-1128,Loja,panaderia,9,8,70.7,64,23.5,9.3,1683.26,0,minimarket
+AND-1129,Loja,tienda de barrio,20,10,71.66,63,5.0,2.0,2241.53,1,minimarket
+AND-1130,Machala,restaurante,28,16,191.19,131,6.0,3.0,8697.12,1,mayorista
+AND-1131,Catamayo,panaderia,56,18,271.35,139,29.4,7.6,15567.01,1,mayorista
+AND-1132,Zamora,tienda de barrio,15,6,22.08,26,12.5,28.0,406.85,0,barrio
+AND-1133,Catamayo,panaderia,28,8,31.7,31,9.2,12.8,823.38,1,barrio
+AND-1134,Catamayo,minimarket,18,12,46.63,59,15.9,24.7,1606.05,1,minimarket
+AND-1135,Zamora,minimarket,9,16,187.82,153,46.3,10.6,9770.45,1,mayorista
+AND-1136,Loja,tienda de barrio,56,7,16.83,22,32.3,1.4,393.67,0,barrio
+AND-1137,Machala,restaurante,29,6,16.16,32,30.8,5.1,403.85,0,barrio
+AND-1138,Saraguro,tienda de barrio,34,8,14.8,16,57.4,5.0,408.14,1,barrio
+AND-1139,Catamayo,panaderia,61,7,9.8,5,24.3,7.4,197.65,0,barrio
+AND-1140,Machala,tienda de barrio,20,8,49.98,63,60.9,13.0,1012.18,0,minimarket
+AND-1141,Loja,tienda de barrio,11,6,19.52,31,64.1,5.8,332.06,1,barrio
+AND-1142,Machala,restaurante,15,13,49.34,67,5.2,6.1,1799.79,0,minimarket
+AND-1143,Machala,tienda de barrio,11,10,84.19,65,3.8,20.3,2488.57,0,minimarket
+AND-1144,Loja,tienda de barrio,48,11,55.16,56,7.8,15.7,1561.54,1,minimarket
+AND-1145,Catamayo,panaderia,70,7,23.91,12,43.2,11.5,560.35,0,barrio
+AND-1146,Zamora,tienda de barrio,28,4,19.07,29,16.1,10.2,183.53,0,barrio
+AND-1147,Loja,panaderia,39,11,65.97,65,14.6,8.7,1701.81,0,minimarket
+AND-1148,Macara,restaurante,44,8,58.48,53,34.6,24.8,1247.54,1,minimarket
+AND-1149,Loja,tienda de barrio,63,5,24.32,35,11.9,7.2,317.9,0,barrio
+AND-1150,Loja,minimarket,69,18,212.6,129,22.1,11.3,9324.42,1,mayorista
+AND-1151,Saraguro,restaurante,7,7,20.08,15,29.4,8.5,375.47,0,barrio
+AND-1152,Macara,restaurante,18,16,227.63,160,8.5,10.6,9492.96,1,mayorista
+AND-1153,Macara,minimarket,26,7,16.89,32,6.8,9.1,342.73,0,barrio
+AND-1154,Cariamanga,minimarket,17,6,19.68,18,19.8,15.2,307.68,0,barrio
+AND-1155,Loja,minimarket,22,6,29.43,25,21.7,7.9,478.88,1,barrio
+AND-1156,Catamayo,tienda de barrio,33,7,16.96,24,32.8,5.5,348.41,0,barrio
+AND-1157,Loja,minimarket,5,5,19.74,5,7.7,17.9,314.57,0,barrio
+AND-1158,Loja,tienda de barrio,33,6,23.74,11,10.4,13.3,490.89,0,barrio
+AND-1159,Loja,tienda de barrio,43,6,23.13,21,63.7,13.7,402.05,0,barrio
+AND-1160,Cariamanga,tienda de barrio,27,7,55.14,56,38.2,4.2,1173.13,1,minimarket
+AND-1161,Loja,panaderia,4,5,10.65,25,17.3,2.7,154.37,0,barrio
+AND-1162,Loja,tienda de barrio,21,13,61.62,74,42.5,12.7,2433.37,1,minimarket
+AND-1163,Macara,tienda de barrio,31,11,33.75,56,7.7,5.6,1146.47,0,minimarket
+AND-1164,Loja,tienda de barrio,45,4,24.87,9,15.8,11.3,339.17,0,barrio
+AND-1165,Machala,tienda de barrio,42,4,18.68,26,21.6,23.3,159.64,1,barrio
+AND-1166,Catamayo,restaurante,24,10,68.53,56,14.4,7.5,1936.65,0,minimarket
+AND-1167,Loja,tienda de barrio,17,12,45.1,58,14.8,5.6,1660.25,0,minimarket
+AND-1168,Machala,tienda de barrio,25,6,12.79,18,31.6,7.8,222.55,0,barrio
+AND-1169,Cariamanga,restaurante,8,12,58.25,87,38.6,21.9,1699.65,1,minimarket
+AND-1170,Zamora,tienda de barrio,18,7,17.87,5,13.2,10.6,304.02,0,barrio
+AND-1171,Catamayo,tienda de barrio,50,7,16.16,17,5.5,1.0,375.41,0,barrio
+AND-1172,Catamayo,panaderia,25,8,56.03,60,4.4,4.6,1197.14,1,minimarket
+AND-1173,Cariamanga,panaderia,32,8,33.09,13,2.2,7.3,614.41,0,barrio
+AND-1174,Catamayo,tienda de barrio,10,9,66.08,71,56.7,17.1,1863.15,1,minimarket
+AND-1175,Saraguro,minimarket,45,7,22.67,32,31.7,7.9,489.99,0,barrio
+AND-1176,Loja,minimarket,24,9,66.22,59,26.9,11.8,1681.28,1,minimarket
+AND-1177,Loja,minimarket,31,6,24.92,19,11.8,11.5,380.66,1,barrio
+AND-1178,Loja,tienda de barrio,35,7,17.26,21,11.7,3.9,351.8,0,barrio
+AND-1179,Zamora,panaderia,44,6,11.45,21,39.5,3.1,238.51,1,barrio
+AND-1180,Catamayo,minimarket,29,7,17.27,21,3.8,7.6,285.41,0,barrio
+AND-1181,Machala,minimarket,24,10,65.75,58,13.6,2.1,1596.6,1,minimarket
+AND-1182,Loja,restaurante,12,5,14.54,25,43.4,6.7,195.83,0,barrio
+AND-1183,Saraguro,panaderia,10,9,17.31,31,13.6,7.2,452.86,0,barrio
+AND-1184,Loja,panaderia,28,8,15.46,7,30.6,1.8,345.45,0,barrio
+AND-1185,Macara,tienda de barrio,32,5,25.05,9,17.9,14.9,385.09,1,barrio
+AND-1186,Zamora,tienda de barrio,34,11,64.86,39,0.7,3.0,2437.39,1,minimarket
+AND-1187,Saraguro,minimarket,15,5,20.77,32,17.3,16.6,302.42,1,barrio
+AND-1188,Catamayo,tienda de barrio,18,14,240.77,143,20.1,28.0,9705.26,1,mayorista
+AND-1189,Macara,minimarket,28,8,17.85,28,16.3,4.9,435.46,1,barrio
+AND-1190,Loja,panaderia,20,7,57.44,43,6.5,5.1,1184.04,0,minimarket
+AND-1191,Cariamanga,minimarket,86,7,13.87,43,16.4,4.2,242.21,1,barrio
+AND-1192,Macara,tienda de barrio,18,6,11.13,15,2.4,14.5,165.5,0,barrio
+AND-1193,Loja,panaderia,33,16,217.05,142,13.5,12.7,8313.45,0,mayorista
+AND-1194,Cariamanga,minimarket,41,17,225.51,150,32.3,5.4,11046.81,1,mayorista
+AND-1195,Macara,tienda de barrio,42,17,274.0,128,54.6,19.2,13338.83,1,mayorista
+AND-1196,Loja,minimarket,20,5,25.43,15,48.6,6.9,307.56,0,barrio
+AND-1197,Loja,tienda de barrio,35,7,25.43,24,7.5,4.6,529.56,1,barrio
+AND-1198,Catamayo,panaderia,33,10,44.16,94,4.6,10.5,1134.58,0,minimarket
+AND-1199,Zamora,tienda de barrio,36,4,16.66,26,21.6,5.5,170.3,1,barrio
+AND-1200,Cariamanga,minimarket,28,10,61.13,79,19.1,2.1,1677.06,0,minimarket
